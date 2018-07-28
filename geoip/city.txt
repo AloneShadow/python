@@ -1,0 +1,8722 @@
+Satara			10
+Buelow			30
+Szczecin		1991
+Spanga			6
+Nampa			1
+Clacton-on-Sea		1
+Papenburg		1
+Usmajac			79
+Engelberg		3
+Fulda			8
+Mours-Saint-Eusebe	10
+Latsia			164
+Avadi			3
+Gravesend		1
+Caen			35
+Bruchkoebel		101
+Irun			5
+Odrzykon		3
+Fernao			2
+Arvika			1
+Komorni Lhotka		1
+Visconde do Rio Branco	9
+Gotse Delchev		2
+Redding			2
+Östersund		13
+Goshen			2
+Loei			23
+Sande			8
+Paw Paw			2
+Chippendale		2
+Vyshneve		838
+Bensalem Township	19
+Mercogliano		5
+Inning am Ammersee	1
+Jangseong		2
+Sandy			12
+Caratinga		24
+Strzelce Opolskie	5
+Cotia			27
+Bettembourg		2
+Hilgert			1
+Boise			182
+Labinsk			8
+Akishima		11
+Hamilton		344
+Poltava			24634
+Pomerode		40
+'s-Hertogenbosch	45
+Chula Vista		16
+Radomlje		34
+Eindhoven		258
+Orzinuovi		4
+Akhepura		2
+Oud-Turnhout		2
+Stuttgart		4153
+Kitakyushu		6
+Siliguri		32
+Anagni			1
+Jagakarsa		3
+Esslingen am Neckar	774
+Narvik			2
+Wolverhampton		6
+Blagoveshchensk		6
+Roodepoort		80
+Alfredo Baquerizo Moreno	12
+Impruneta		20
+Novi Sad		28
+Dexter			2
+Quincy			21
+Libeznice		4
+Szazhalombatta		2
+Ambala			6
+Agudos			15
+Pompeia			5
+Villa Madero		6
+Woodway			118
+Messina			15
+Örebro			10
+Rishon LeZion		119
+Totton			8
+Cagnes-sur-Mer		6
+West Boylston		1
+Gawlow			44
+Brighton		1008
+Barwa			11
+Montecchio Maggiore	39
+Melchor Romero		11
+Vardaman		1
+Twickenham		1
+Altamira		86
+Hsinchu			148
+Kartaly			1
+'s-Gravenwezel		32
+Statesboro		47
+Oud-Gastel		2
+Baratjaya		76
+Upland			468
+Chapaira		1
+Cheltenham		8
+Pondok			29
+Banugao			4
+Saint Cloud		11
+Beebe			1
+Oruro			13
+Lund			267
+Porto Belo		1
+Wolbrom			7
+Zoetermeer		123
+Baturite		7
+Shyamnagar		4
+Apolonio Samson		2
+Ylivieska		3
+Mandal			2
+Mandan			2
+Matsumoto		2135
+Sherman Oaks		587
+Sharpsburg		20
+Santiago de los Caballeros	32
+Peroy-les-Gombries	4
+Villa Constitucion	2
+Zeliezovce		22
+Paraopeba		2
+Fernandopolis		6
+Cuernavaca		65
+Dietikon		5
+Golitsyno		3
+Maringá			55
+Bunker Hill		13
+Kirovsk			2
+Saratov			300
+Cardona			187
+Liederbach		2
+Koshigaya		8
+Jinan			463
+Port Angeles		20
+Bad Vilbel		59
+Ganzhou			24
+Jablunka		1
+Itatiba			1
+Monterrey		1410
+České Budějovice	92
+Siófok			8
+Badajoz			9
+Umwa Village		1
+Magdalena de Kino	1
+Simoes			8
+Sao Joao do Triunfo	4
+Charlottesville		131
+Nazareth		25
+Smolensk		469
+Heerde			85
+Itabela			7
+Kristiansand		77
+Nieuwegein		114
+Montague		8
+Natal			140
+Sumperk			12
+Egolzwil		32
+Wilcox			1
+Chembur			4
+East Elmhurst		11
+Pathum Thani		42
+Szajol			12
+Fort Worth		288
+Priego de Cordoba	8
+Bernal			1
+Langfang		3508
+Gzhel'			13
+Eisenstadt		6
+Sundbyberg		2
+Przemysl		2
+Kralupy nad Vltavou	5
+Dortmund		331
+San Salvador de Jujuy	5
+Piemonte		5
+Giaveno			1
+Altrincham		31
+Jamestown		2
+Swidnik			31
+Lutsk			44885
+Pazardzhik		21
+Aspen			26
+Sarzedo			66
+Barquisimeto		4
+Gunzenhausen		77
+Radlett			5
+Osięciny		2
+Astana			129
+Berlikon		29
+Ringkøbing		95
+Karra			3
+Guidonia		1
+Afragola		1
+Nefteyugansk		63
+Swarthmore		133
+Ega			3
+Mount Waverley		10
+Piteå			58
+Orangeville		17
+Farsø			21
+Delray Beach		2
+Cham			17
+Kleve			2
+Nashik			1
+Arlington Heights	7472
+Hammah			27
+Tulancingo		19
+Ponte Nova		39
+Ponzo			3
+Dungri			3
+Talca			21
+Panambi			1
+Lurin			1
+Waterford		12
+Selca			21
+Sha Po Kong		15
+Waco			2
+Oud-Beijerland		18
+Bruchsal		147
+Novodvinsk		1
+Batulovce		5
+Braganca		3
+Braunschweig		13
+Vaudreuil-Dorion	868
+Dalandzadgad		2
+Bad Iburg		7
+Dlouhomilov		28
+Namyangju		3
+Nazare da Mata		15
+Buonabitacolo		5
+Oracle			714
+Muskogee		4
+Muzambinho		6
+Binh Thanh		73
+Croydon			625
+San Jose Iturbide	1
+Ronninge		118
+Erkelenz		102
+Chicago			94436
+Birkfeld		4
+San Salvador		1092
+Teresopolis		28
+Araraquara		1
+Saint Petersburg	77806
+Cairate			1
+Someren			5
+Son			32
+Pojuca			16
+Uwajima			9
+Istra			89
+Criciúma		15
+Heesch			50
+Russas			2
+Québec			385
+Asa			3
+Nieuwerkerk aan den IJssel	13
+Gmina Bolków		1
+Caledonia		7
+Dothan			24
+Tarragona		1
+Bet Shemesh		65
+Wise			5
+Jersey City		93213
+Azamgarh		10
+Gornja Radgona		2
+Campo Alegre		2
+Jičín			20
+Shaoxing		98
+Portsmouth		195
+Jerusalem		609
+Saint George		197
+Sofia			7738
+Fareham			8
+Encinitas		4
+Lisbon			407
+Hoagland		209
+Libis			1
+Union			5
+Marki			3
+Nyiregyhaza		25
+Beverly			1
+Omer			1
+Saint-Hyacinthe		1
+Belen de Escobar	9
+Vsetin			1
+Nemenčinė		199
+Lewisville		5
+Lilyfield		23
+Lienen			4
+Halenkovice		7
+Gagny			3
+Itaborai		39
+Op den Bosch		4
+Barracao		1
+Farsleben		6
+Saint Athanasios	39
+Pescara			194
+Andover			2196
+Hobbs			7
+Beyne-Heusay		1
+Bad Ischl		9
+Bennington		3
+Brevard			7
+McPherson		2
+Kostanay		3
+Szombathely		42
+Mejicanos		3
+Sitborice		131
+Várzea Grande		27
+Unterhaching		107
+Rocky Ford		17
+Ponca City		1
+Pontecagnano		3
+Trollhattan		2
+Cottage Grove		1
+Wilmette		131
+Cikarang		27
+Horsham			102
+Jarosław		494
+Auburn Hills		4
+Sidoarjo		4
+San Patricio		14
+Hightstown		68
+Stratford		88
+Logansport		1
+Aberdeen		14
+Izegem			12
+Chelyabinsk		669
+Ząbki			1
+Vadodara		7
+Ikast			205
+Atlixco			2
+Botevgrad		5
+Sanarica		2
+Clarence		2
+Manaus			488
+Malad			12
+Radevormwald		1
+Algiers			1
+Sabadell		5
+Tokyo			14006
+Santa Giustina in Colle	42
+Clermont		1309
+Fergus			19
+Psary			3
+Skodstrup		1
+Fayetteville		2597
+Ho Man Tin		5
+Mojs			1
+Elgin			63
+Monte Compatri		13
+Yoshkar-Ola		61
+Harrison		215
+Campbell		15207
+Goddard			4
+Villanuova sul Clisi	5
+Paracatu		4
+Clarksburg		7
+Potomac			388
+Mahrauli		2
+Barrigada Village	7
+Torshalla		1
+Volochys'k		1466
+Rio Grande da Serra	10
+Villavicencio		4
+Rzhev			7
+Fairview		1
+Dosquebradas		5
+Santiponce		1
+Borgomanero		7
+Corbelia		8
+San Angelo		3
+Nanjo			14
+Budapest		20787
+Wetaskiwin		1
+Bobowa			3
+Gaya			7
+Apples			1
+Aachen			967
+Aguado			17
+Tijuana			317
+Sant Vicenç dels Horts	3
+Harthausen		10
+Ivano-Frankivs'k	13262
+Kisapostag		1
+Votkinsk		17
+Pozoblanco		23
+Karrinyup		2
+Mysore			119
+Runavik			4
+Thane			316
+Neu-Anspach		11
+Hendrik-Ido-Ambacht	1
+Marina del Rey		1033
+Alphen aan den Rijn	12
+Cipinang		116
+Shirokane		6682
+Vitry-sur-Seine		13
+Leonard			1
+Azuqueca de Henares	8
+Uruoca			8
+Tanjung			2
+National City		31
+Hajduboszormeny		1
+Bastia umbra		19
+Newton Abbot		1
+Alamo			3
+Batka			2
+Marchena		15
+Litvinov		157
+Joao Monlevade		12
+Novocherkassk		113
+Poreba			21
+Kingsport		35
+Manjahlega		5
+Gaithersburg		289
+Villa Crespo		64
+Ithaca			466
+Warren			22
+Ybbs an der Donau	8
+Hlohovec		4
+Longmeadow		3
+Taquara			6
+Oskaloosa		1
+Kvinesdal		2
+Varsta			7
+Puyang			2
+Concepcion		9
+Woodland Hills		465
+Goodyear		3449
+Tandil			19
+Coalville		1
+Rosendal		6
+Balham			1
+Tananger		136
+Canaa dos Carajas	1
+Alajuela		3
+Tigre			10
+Chandpara		9
+Mount Holly		2
+Macon			944
+Amber			3
+West Point		1
+Guangxi			1
+Lahti			1
+Oostkamp		2
+Farum			11
+Smithville		1
+Bistriţa		1
+Talme Menashe		22
+Kerekharaszt		83
+Trebišov		10
+Hedensted		5
+Crystal Lake		1
+Guaymas			57
+Fairfield		532
+Sitka			2
+Evergem			3
+Latina			23
+Grogol			8
+Puteaux			92
+Clères			4
+Humen			120
+Tunapuna		1
+Zeven			1
+Wichita			6
+Leoben			29
+Liffre			2
+Santa Maria la Longa	1
+Hobart			23
+Nangli			1
+Misano Adriatico	59
+Saint-Colomban		8
+Herrenberg		13
+Iași			2279
+Ixelles-Elsene		27
+Groveland		3
+Ciral			1
+Porto Nacional		1
+Rio Grande		14
+Pleasanton		333
+Lustenau		1
+Brest			6
+Goianira		2
+Krasnoznamensk		1
+Lagoa Seca		1
+Maputo			690
+Raipur			14
+Port Clinton		24
+Plattling		15
+Coburg			34
+Osijek			21
+San Luis Río Colorado	56
+Cologno Monzese		18
+Ludwigsburg		1
+South Jordan		2
+Astrakhan		393
+Drezna			23
+Guntur			24
+Pelhrimov		221
+Niepolomice		5
+Melbourne		2371
+Weehawken		1848
+Sloviansk		367
+Edmonds			3
+Papeete			87
+Samara			633
+Smolyan			1
+Whitstable		4
+Szerecseny		29
+Nördlingen		10
+Ozarow Mazowiecki	324
+Borgosatollo		2
+Le Plessis-Robinson	1365
+Szeged			73
+Fukui-shi		1
+Kuito			1
+Bassano del Grappa	77
+Jalalpur		99
+Ipswich			169
+Indiana			1
+Sioux City		30
+Wysokie Mazowieckie	2
+Lleida			31
+Meerut			37
+Dayrah			1
+Cheticamp		1
+Kherson			16886
+Verona			114
+Legnago			1
+Oxted			395
+Talisay City		2
+Ashburn			105000
+Montegalda		6
+Gehrden			10
+Ahmedabad		228
+Idestrup		1
+Oudenaarde		340
+Ponniammanmedu		19
+Lince			1
+Ananindeua		98
+Solihull		18
+Granollers		1
+Dourados		7
+Tabira			5
+Tuen Mun San Hui	8
+Marano di Napoli	54
+Harbin			142
+Annapolis Junction	1
+Giffoni Valle Piana	3
+Wake Forest		11
+Kall			1
+Biggleswade		2
+Puerto Plata		2
+Juazeiro		82
+Santa Barbara		15
+Corfu			11
+Ocala			4
+Effretikon		1
+Jezow Sudecki		4
+Neumünster		4
+Fort Bragg		1
+Cusano Milanino		1
+Bistrica pri Rusah	1
+Cundinamarca		2
+Edegem			25
+The Bronx		1540
+Daytona Beach		4
+Landau			13
+Loughton		1
+Cruz			13
+Bukit Timah		10
+Alfenas			86
+Igarape			48
+Hengelo			115
+Pamplona		6
+Vinkovci		1
+Wejherowo		4
+Montella		1
+Uzhhorod		3033
+Dorking			56
+Košice			88
+Latham			13691
+Hoboken			27
+Zarinsk			7
+Paracambi		23
+Bory			7
+Pace			1
+Gorakhpur		8
+Noale			1
+Salvaleón de Higüey	20
+Olkusz			1
+Ecully			13
+Lisle			1519
+Santa Cruz de Barahona	32
+Bergwerk		5
+Bilimora		2
+Midrand			12
+Davidson		1
+Apatin			2
+La Vernia		1
+Sarasota		5
+São José dos Campos	82
+Watsonville		22
+Bang Sue		3
+Kotagiri		1
+Ragusa			5
+Himeji			2
+Lennestadt		4
+Bettendorf		15
+Niederhoerlen		2
+Vitória			11
+Itajuipe		3
+Westmont		11
+Studio City		8
+Gresik			4
+Castanhal		65
+Atlantic Highlands	13
+Jubail			2
+Helmstedt		36
+Chihuahua City		335
+Helston			63
+Břeclav			24
+Lambertville		7
+Lemgo			247
+Berdsk			58
+Gunung			2
+Mexicali		251
+Punxsutawney		140
+Federal			423
+Ercis			9
+Birkhadem		4
+Bergschenhoek		4
+Bell Ville		9
+Mielec			52
+Guanambi		4
+Segrate			46
+Leanyvar		5
+Polkowice		1
+Karlovy Vary		104
+Corupa			15
+Belle Rose		3
+Blanchardstown		3
+Karlivka		3978
+Rexburg			1
+Durnten			1
+Joliet			1
+Pulheim			12
+Carmichael		55
+Cambrils		1
+Xanxere			4
+Cariacica		27
+Eagle			1
+Mississauga		224
+Samsun			9
+Razvilka		10
+Litoměřice		1
+Managua			1030
+Old Hickory		3
+Aguas da Prata		6
+Cornelius		8
+Magadan			72
+Valsad			46
+Trento			72
+Esmeraldas		1
+Düren			1
+San Vincenzo Valle Roveto	11
+Lakewood		2
+Ramot HaShavim		1
+Blaubeuren Abbey	2
+Elizabethtown		10
+Zhengzhou		2436
+Peterborough		14
+Osterholz-Scharmbeck	1
+Chuncheon		2
+Barnet			10
+Perth			499
+Irvine			3024
+Brookfield		40
+Brigham City		1
+Rastatt			469
+Noida			360
+Cypress			9
+Forney			11
+Kakamigahara		3
+Maracaibo		65
+Lishui			88
+Hlinik nad Hronom	82
+Bandar Permaisuri	1
+Civita Castellana	3
+Águilas			11
+Colombes		43
+Langen			17
+Kitzbühel		1
+Lippstadt		1
+Brookhaven		6
+Ilkley			53
+Helmond			11
+Novoural'sk		24
+Malatya			54
+McAllen			1
+Kao-sung		185
+Emsworth		7
+Bagbaguin		2
+Stanley			1
+Villa d'Almè		1
+Langaminne		1
+Avezzano		188
+Eschelbronn		38
+Changde			133
+Poiares			7
+Craigavon		3
+Cookeville		273
+Akers Styckebruk	2
+Herlev			23
+Swampscott		12
+Scarborough		205
+Elizabeth		5
+Gering			3
+İskenderun		7
+Savski Venac		21
+Sabinanigo		2
+Luziania		1
+Ellettsville		90
+Melito di Porto Salvo	29
+Indaiatuba		4
+Cengio			33
+Alvinopolis		5
+Fenton			1
+Esher			1
+Westfield		4
+Bystrany		108
+San Bonifacio		1
+Comiso			2
+Alabang			1
+Brampton		130
+Mysłowice		2
+Layton			311
+La Chapelle-Orthemale	2
+Soknedal		1
+Giugliano in Campania	6
+Brazil			50
+Norwalk			2208
+Sanford			192
+Dnipro			532229
+Vern-sur-Seiche		3
+Lucan			5
+Almada			60
+San Cayetano		12
+Patna			41
+Kołobrzeg		6
+Barra do Garças		40
+Becej			1
+Erode			9
+Rolling Meadows		92
+Burlingame		82
+Holbaek			21
+Nova Venecia		29
+St Andrews		9
+Orangeburg		252
+Hvidovre		88
+Liberia			2
+Podgorica		209
+Ramat Gan		196
+Falls Church		80
+Zonguldak		2
+Brcko			4
+Pademangan Barat	3
+Brannenburg		2
+Pallavaram		4
+Tudela de Duero		1
+Gilze			21
+Juan-les-Pins		147
+Kyrksaeterora		1
+Fredericia		1
+Traverse City		28
+Esteban Echeverria	28
+Villa Angelica		150
+Molde			1
+Center Point		8
+Conisbrough		1
+Koronadal		3
+Crema			1
+Nizhniy Novgorod	1009
+Boyarka			16
+Chmielnik		2
+Royse City		1
+Kerch			1
+Neglasari		28
+Itapema			1
+Antioch			1
+Nova Era		4
+Limassol		315
+Mansarovar		6
+Köthen			23
+Paikuse			2
+Mogyorosbanya		226
+Prescott		215
+Granby			3
+Swedesboro		3
+Schaan			278
+Dunstable		3
+Levallois-Perret	9
+Noci			2
+Zaandam			32
+Alcamo			6
+Weston			22
+Landa			11
+Bad Erlach		229
+Monroe			8
+Nadejkov		128
+Geelong			4
+Madison Heights		1
+Kiruna			6
+Berkenye		7
+Hlukhiv			29546
+Roland			3
+Reiskirchen		51
+Pontal do Parana	30
+Gebze			18
+Burgdorf, Hanover	12
+Sacramento		3450
+Follenslev		1
+Catriel			1
+Kastl			1
+Andira			4
+Camp Douglas		8
+Cyk			4
+Roanne			10
+Enschede		40
+Gravatá			7
+Newbury			208
+Juarez			24
+Hall in Tirol		2
+Lexington		11396
+Henfield		1
+Albalate de Zorita	4
+Ostrava			183
+Conneaut		1
+Moskovskiy		20
+Uijeongbu-si		164
+Manchester		58480
+Saco			3
+Herborn			25
+Sodra Sandby		75
+Kassel			40
+Rødovre Municipality	354
+Bebedouro		22
+Olevano sul Tusciano	8
+Yau Ma Tei		6
+Niedergosgen		1
+Lengerich		1
+Guadalupe Victoria	21
+Balekambang		1
+Coyoacan		117
+Twello			69
+Itabuna			100
+San Martin		13
+Mount Airy		10
+Gmina Jędrzejów		1
+Langenfeld		2
+Cloverdale		13
+Babail			10
+Lima Duarte		10
+Mafra			116
+Lititz			7774
+Elmhurst		53624
+Frascati		3
+Baja			24
+Dniprodzerzhyns'k	2210
+Ablon-sur-Seine		776
+Niagara-on-the-Lake	57
+McLean			1080
+Canal Fulton		2
+Burzaco			30
+Oriente			11
+Raychikhinsk		9
+Tolentino		2
+Szynwald		20
+Piripiri		2
+Cosmos			1
+Sugar Land		34
+Spearfish		6
+Arroyomolinos		1
+Traiguera		2
+Worms			3
+Tiberias		2
+Watford			101
+Acailandia		28
+Eden Prairie		9563
+Konya			9
+Skien			86
+Fairbanks		1
+El Retiro		47
+Bom Conselho		5
+Torre			30
+Riverside		27
+Ensisheim		17
+Sugarcreek		3
+Donaustauf		1
+Lodz			384
+Semarang		123
+Winona			2
+Asheville		148
+Vijayawada		249
+Desio			2
+Tramandai		3
+Mislata			1
+Comilla			89
+Porto Sant'Elpidio	2
+Olinda			21
+Davenport		7
+Whangarei		4
+Ludwigshafen am Rhein	100
+Ghaziabad		301
+Annandale		13
+Marcos Paz		1
+Cotignola		28
+Bertingen		44
+Guaribas		2
+Dripping Springs	28
+Guatemala City		221
+Agedrup			2
+Remedios de Escalada	3
+Macgregor		16
+Nagoya			209
+Dandenong West		1
+Jagraon			2
+Kutná Hora		17
+Kalamazoo		2
+Assamstadt		12
+Kantharawichai		6
+Nashville		20
+Braşov			154
+Pleven			86
+General San Martin	17
+Zirl			8
+Taichung		141
+Cohasset		15
+Anchorage		26
+Atyrau			1
+Andradas		6
+Kulim			3
+Malmefjorden		31
+Saint-Julien-le-Roux	2
+Queanbeyan		9
+Butia			1
+Milwaukee		209
+Grenå			43
+Bottrop			251
+Falconara Marittima	7
+College Place		5
+Jihlava			13
+Adustina		41
+Yonezawa		5
+Santeuil		1
+Daniec			1
+Rostock			24
+Berehove		14
+Gunadala		1
+Barnaul			265
+Kropotkin		18
+Exeter			48
+Gedera			6
+Sandane			3
+Ooltewah		1
+Huelva			1
+Canyon Country		41
+Berg bei Neumarkt	22
+Olomouc			201
+Wachsenburg		7
+La Serena		10
+Secunderabad		77
+Freienbach		16
+Dedovsk			87
+Edingen-Neckarhausen	4
+Veszprém		5
+Cipolletti		38
+Sao Joao da Barra	31
+Al Karama		66
+Hunxe			8
+Praia Grande		2
+Belmont			546
+Wuerselen		14
+Medusa			1
+Mohlin			1
+Colle di Val d'Elsa	3
+Rio Branco		2
+Aprelevka		116
+Arloev			2
+Strangnas		1
+Brandon			135
+Holten			23
+Trieste			505
+Artane			1
+Lake Mary		4
+Churdan			1
+Vienna			36761
+Slany			1
+College Park		601
+Oberwaltersdorf		6
+Hainan			1
+Noble Park		3
+Homebush		9
+Almagro			36
+Cinisello Balsamo	19
+Newmarket		41
+Valladolid		19
+Monroeville		27
+Antiguo Cuscatlan	3
+Kopeysk			1
+Port Perry		8
+Boa Vista		177
+Monrovia		2
+Ripley			4
+Pirauba			2
+Albertville		3
+Villa Carlos Paz	91
+Juvisy-sur-Orge		432
+Paia			3
+Antofagasta		74
+Znojmo			53
+Ballerup Municipality	444
+Lokeren			3
+Issaquah		47
+Rondonópolis		1
+Durban			312
+Aliso Viejo		105
+Mars			4
+Silkeborg		1
+Inhuporanga		4
+Kunming			34
+Binghamton		7
+West Chicago		979
+Bjorkelangen		28
+Englewood		14574
+Marcianise		5
+Brusque			65
+Caete			3
+Soesterberg		5
+Little Rock		608
+Devils Lake		1
+Meggen			1
+Mixco			1
+Barueri			3
+Southgate		2
+Greensboro		65
+Pennsburg		3
+Karaikudi		2
+Elkin			1
+Ampang			17
+Velke Losiny		1
+Reinfeld		1
+Parets del Vallès	1
+Kanata			26
+Dugandan		1
+Kaliningrad		1400
+Hof			1
+Kobyli			6
+Salekhard		8
+Pascani			3
+Tembisa			4
+Seinäjoki		2
+Gloucester Point	30
+Chabahil		2
+Gilmer			26
+Ivangorod		5
+Csokako			2
+Hundested		3
+Osprey			1
+Tottenham		6
+Nagykata		134
+Canelones		23
+Pekin			17
+Río Cuarto		5
+Chaclacayo		5
+Chengdu			734
+Hoest			99911
+Grobbendonk		41
+Cachan			21
+Moorhead		7
+Swindon			104
+La Broquerie		3
+Cabo San Lucas		4
+Surwold			18
+Khust			84
+Vincent			600
+Paulesti		14
+Nusa Dua		14
+Szczytno		3
+Five Dock		4
+Zapopan			686
+Batesville		2
+Kettering		73
+Campi Bisenzio		4
+Blumenau		7
+Rioja			27
+Jacarezinho		9
+Klepp			1
+Ararangua		5
+Mettmann		7
+Chusovoy		294
+Broken Arrow		2
+Saint-Martin-d'Hères	2
+Lipetsk			441
+Carabayllo		1
+Kayuringin		25
+Morrinhos		33
+Amritsar		5
+Mijas			10
+Pabradė			11
+Siegen			3
+Puente de Genave	1
+Vieux-Saint-Laurent	127
+Junosuando		1
+Callaway		1
+Taastrup		1
+University		8
+Bucak			3
+Juchen			14
+Bogor			9
+Godalming		18
+Krathum Baen		1
+Polna			2
+Vi Thanh		39
+Qiryat Ata		1
+Spencer			4
+Visby			13
+Jastrzębie Zdrój	46
+Pandacan		3
+Zurich			4237
+Venancio Aires		2
+Shizuoka		45
+Polhov Gradec		5
+Davos Dorf		1
+Buzuluk			64
+St. Albert		4
+San Juan de Lurigancho	17
+Allerød Municipality	18
+Mannford		33
+Odenton			66
+Yekaterinburg		4154
+Yogyakarta		180
+Canton			1
+Richmond		478
+Iacu			37
+Weigendorf		1
+Lacey			1
+Mulgrave		1
+Slavicin		21
+Ovalle			1
+Karol Bagh		5
+Varese			43
+Kingstree		6
+Nemours			2
+St Albans		46
+Cedar Park		173
+Sao Jose		108
+Temryuk			3
+Cancello ed Arnone	1
+Hopkinsville		3
+La Madeleine		1
+Ilava			16
+Humble			1
+Nierstein		2
+Giza			34
+Duchcov			2
+Reginopolis		21
+Gulliver		6
+Roosendaal		11
+Greenfield		2
+Makiivka		1576
+Boituva			92
+Kozhikode		6
+Zielona Góra		67
+Nordhorn		4
+Perkasie		1
+Bayreuth		59
+Srengseng		1
+Kiskunfelegyhaza	11
+Denton			56
+Igoumenitsa		19
+Milha			2
+Promyshlennaya		1
+Dawlish			18
+Saint Henry		1
+Innisfail		11
+Podebrady		11
+Glasgow			48
+Virar			38
+Kalisz			101
+Hughson			262
+Tsuwano			4
+Bilshausen		3
+Seligenstadt		5
+Santa Quiteria		2
+Fulham			94
+Landeck			99
+Bom Jardim		6
+Hawkinsville		1
+Nanning			95
+Hanover			128
+Villeneuve		1
+Upper Hutt		8
+Curvelo			6
+Bandung			343
+Remshalden		1
+Guapore			1
+Rozendaal		58
+Port Montt		4
+Aquiraz			2
+Warrenville		2
+Schneeberg		18
+Great Yarmouth		3
+Ejido Distrito Federal	10
+Churchill		9
+Orsk			6
+Puebla City		686
+Pittsford		211
+East Syracuse		4
+Attard			11
+Metzlos-Gehag		6
+Burghausen		144
+Belize City		24
+Oltenita		10
+Lyman			188
+Ruston			5
+East Hanover		18
+Cando			1
+Chilliwack		6
+Ulsan			44
+Loma Linda		1
+Dhahran			53
+Domodedovo		587
+Irmo			1
+Triengen		16
+Tsimshatsui		47
+Brookline		12
+Essendon		5
+Edinboro		1
+Brussels		3481
+Port Harcourt		60
+Mandi			3
+Bofete			9
+Llavallol		4
+Meinerzhagen		30
+Krems			4
+Savannah		19
+Newton			4509
+Caucaia			28
+Reinheim		1
+Davao City		44
+Sepang			95
+Blooming Prairie	7
+Kopavogur		1
+Calhoun Falls		3
+Erbusco			2
+Wernau			412
+Oldham			1
+Esbjerg			4
+Balma			1
+Nagykallo		24
+Pasay			9
+Bova Marina		13
+Good Hope		1
+Qiryat Gat		4
+Dubuque			15
+Lüneburg		405
+Derhachi		55
+Zambrów			2
+Kosina			131
+Noginsk			15
+Yadkinville		11477
+Chillan			7
+St. Charles		2
+Solnechnogorsk		42
+Lomé			64
+Cheraga			26
+Cavaria con Premezzo	6
+Redwood City		12323
+Nal'chik		13
+Feira			7
+Lausanne		286
+Tocantins		1
+Arzamas			125
+Leonberg		7
+Cava de' Tirreni	2
+Palemig			7
+Leopoldina		293
+Boronia			5
+Quispamsis		16
+Salamanca		24
+Bibayevo-Chelny		88
+Bochnia			934
+Elmsford		1
+Sao Juliao do Tojal	3
+Maurepas		3
+Kruševac		2
+Presidente Venceslau	13
+Ajman			13
+Clarkson		72
+Milano			788
+Michalovce		7
+Vitoria de Santo Antao	65
+La Luisa		4
+Port-au-Prince		28
+Dunn Center		2
+Consolacao		1
+Collegeville		6
+Southington		3
+Goiânia			322
+Perambur		2
+Homburg			5
+Allawah			4
+Jenison			4
+Boa Esperanca do Sul	9
+Stonehouse		221
+Rijeka			1
+Kyoto			1185
+Rajampet		3
+Kingston Springs	1
+Acquedolci		12
+Binan			16
+La Vallee de Dormelles	2
+Jatimakmur		67
+Soborg			15
+Baulkham Hills		7
+Topoloveni		2
+Loves Park		13
+Jupia			2
+Pereyra			3
+Tanza			20
+Batu Pahat		27
+Hofheim am Taunus	3
+Kırklareli		8
+Mladá Boleslav		274
+Barking			13
+Shatura			3
+Huntingdon		20
+San Valentino Torio	3
+Algoma			43
+Nhandeara		2
+Sungai Petani		2
+Issy-les-Moulineaux	1
+Quilleco		2
+Słubice			3
+Arezzo			31380
+Ellwangen		5
+Pratapolis		7
+Ürümqi			17
+Lille			110
+Burnsville		4
+Doylestown		16
+Wedel			2
+Kakdwip			1
+Charleston		691
+Kemanggisan		1
+Abda			3
+Vasby			8
+Győr			124
+Vimercate		1
+Villafranca de los Caballeros	7
+Broomfield		32
+Gödöllő			21
+Hasselby		2
+Tres Arroyos		8
+Naleczow		30
+Cedar Rapids		46
+Maceió			101
+Pereiro			3
+Zumikon			13
+Pereira			488
+Santa Clarita		168
+Kovrov			22
+Mirandola		7
+Gdynia			10851
+Sao Caetano		1
+Hilversum		62
+Turkheim		145
+Warrenton		43
+Gorbea			5
+Wigan			169
+Zoeterwoude		46
+Aguas Belas		1
+Dalton			12
+Fot			24
+Izabelin		2
+Carroll			5
+Arvada			2
+Enns			3
+Rapid City		11
+Sant Antoni de Portmany	1
+Angered			3
+Slough			2461
+Garanhuns		3
+Snowflake		7
+Roehampton		100
+Pontiac			44
+Timra			9
+Thayngen		10
+Aartselaar		1
+Carman			16
+Murmansk		127
+Bridgeport		146
+Lunne			25
+Florida			80
+Tustin			95
+Volgograd		900
+San Pedro		3
+Oświęcim		9
+Goldenstedt		2
+Fulton			9
+Bingol			1
+Slippery Rock		4
+Yasothon		5
+Stupava			98
+Halfweg			5
+Wilde			61
+Todi			2
+Sevran			21
+Le Relecq-Kerhuon	2
+Bethi			58
+Clyde			3
+Wigston Parva		6590
+Santa Ana		117
+Moelndal		15
+Giarre			4
+Marmagao		4
+Beauharnois		374
+Cary			1614
+Mariana			55
+Fort Loramie		5
+Novaya Chara		20
+Lithia			102
+North Bergen		2
+La Garde		9
+Inver Grove Heights	4
+East Rochester		30
+Araguari		1
+Myre			7
+Fairfax			21
+Hiroshima		23
+Carrieres-sous-Poissy	6
+Varzea Paulista		16
+Bissen			25
+Northbrook		1210
+Pickering		6
+Marshfield		1
+Bahtarai		3
+Nepean			4432
+Nasielsk		6
+Iselin			9
+Norwich			36
+Broadmeadow		20
+Akashi			9
+Syzran'			3
+Trombay			3
+Kazipur			1
+Waukesha		6
+Dietachdorf		3
+Sokal'			156
+Épinay-sur-Seine	32
+Giresun			4
+Regba			11
+Burgrabice		100
+Raleigh			20876
+Vallauris		53
+Reston			4477
+Pohang			113
+Rudna			46
+Kars			1
+Ashbourne		5
+Finspang		2
+Rozprza			14
+Magny-les-Hameaux	1
+Woodbridge		12
+Wiener Neudorf		429
+Zell am See		4
+Ktis			3582
+Laverton		4
+Uxbridge		4
+Sao Pedro		1
+Attendorn		13
+Rednitzhembach		19
+Roanoke			72
+Vlasim			1
+Steyr			9
+Gütersloh		25
+Boyds			46
+Guaíba			11
+Korotoyak		128
+Bertrange		5
+Champaign		110
+Marino			6
+Suwon-si		158
+Faenza			48
+Bekasi			180
+Fukuoka			16
+Chervonohrad		373
+Cantrall		12
+Attleboro		2
+Dunedin			2
+Waltham			57330
+Crateus			5
+Vonyarcvashegy		8
+Nunspeet		3
+Radauti			2
+L'Hospitalet de Llobregat	135
+Herning			185
+North Sioux City	1
+Wiesbaden		55
+Bones			1
+Blankenfelde		7
+Town of Boxborough	406
+Montegrotto Terme	150
+Göttingen		171
+Oroszlany		5
+Petina			4
+Gnas			3
+La Cote			24
+Coldspring		8
+Norristown		1
+Witten			31
+Mosta			3
+St Ives			28
+Osteria Grande		7
+Sergiyev Posad		7
+Viterbo			22
+Teuge			4
+Capannoli		14
+Hamamatsu		42
+Raurkela		1
+Pueblo Nuevo		16
+Espergaerde		1
+Lincolnville		1
+Pont			115
+Oss			5
+Barretos		117
+Semyonov		31
+Busan			681
+St. Catharines		7
+Skurup			2
+Colatina		41
+Kapuk			1
+Emporia			1
+Fitzroy			14
+Carthage		2
+Young			1
+Curitibanos		5
+Manama			51
+Bandar Baru Bangi	2
+Malcesine		2
+Corvallis		239
+Pella			5
+Ta' Xbiex		3
+Barra Mansa		113
+Ponte di Piave		27
+Wilcza			88
+Mariupol		2653
+Nitra			74
+Cosmopolis		5
+Veranopolis		5
+Gümüşhane		2
+Saint Lucia		1
+Roslev			1
+Chicoutimi		1
+Schmalkalden		5
+Konczyce		64
+Greensburg		2
+Neuffen			1
+Hurley			1
+Nova Lima		73
+Boeckten		2
+Maracaja		16
+Racibórz		33
+Kericho			1
+Drexel Hill		1
+Schoftland		2
+Taoyuan District	24
+Mirabel			1
+Schlegel		38
+Munchwilen		5
+Bruntal			17
+Britt			32
+Eunapolis		27
+Włocławek		2
+Parnell			23
+Maria Taferl		2
+Hermanus		3
+Trenque Lauquen		6
+Vrigstad		1
+Julio de Castilhos	12
+Castellammare di Stabia	1
+Kingston		150
+Apex			4628
+Sant'Omero		1
+Ludvika			3
+Eldorado		2
+Tauranga		5
+Mogilev			339
+Jundia			37
+Epinois			3
+Karcag			15
+Manhattan		107
+Rufi			8
+San Nicolás de los Garza	93
+Tel Mond		1
+Coal Valley		1
+Ramona			306
+Apetlon			10
+Floral Park		12
+Skierniewice		1
+Vigia			12
+Independencia		2
+Itaperucu		4
+Mottafollone		1
+Gold Coast		10
+Bagley			1
+Świnoujście		3
+Hicksville		1181
+Murcia			16
+Cañon City		1
+Jindrichuv Hradec	10
+West Plains		1
+Zug			957
+La Rochelle		1
+Derby			25
+Itarsi			1
+Kisumu			4
+Bromley			1
+Valpone			19
+Leipzig			1594
+Mont-Saint-Aignan	17
+Thanh Nguyen		134
+Stamford		22108
+Cardiff			30
+Sangereng		238
+Secaucus		4927
+Qingzhou		1
+Pequot Lakes		60
+Progreso		1
+Avenza			3
+Zichovec		6
+Cachoeiro de Itapemirim	50
+Stari Bar		6
+Gaziantep		477
+Marapanim		14
+Imperatriz		129
+Birmensdorf		5
+Bessemer		1
+Nyon			523
+Montefalco		22
+Richmond Hill		86
+Kochi			228
+Candido			66
+Herzogenaurach		64
+Piranga			1
+Holland			89
+Albion			2
+Hasbergen		1
+Pirangi			1
+Witbank			1
+Frankenthal		9
+Arroio do Sal		12
+Bergkamen		3
+Enskede-Arsta-Vantoer	44
+Szendro			1
+Medford			289
+Aoicho			2
+Heemstede		2
+Hagen			2
+Guanajuato City		1
+Hurlingham		72
+Vlaardingen		33
+Seattle			885001
+Wijchen			18
+Trois-Rivières		2
+Turku			124
+Fairview Heights	1
+Gilman			2
+Winchester		20
+Ebina			1
+Ariccia			15
+Bellflower		8
+Huatabampo		6
+Vallamand		1
+Jamnagar		5
+Girne			55
+Bicton			1
+Huddersfield		3
+Rees			2
+Forest Hills		170
+Don Torcuato		36
+San Diego		26310
+Waukegan		24
+Machi			1
+Qormi			12
+Võru			27
+Bhopal			194
+Deinze			1
+Timon			19
+Çorum			38
+Lukow			9
+Freedom			18
+Paucarbamba		12
+Copiano			91
+Carcassonne		1
+Tulbagh			45
+Trumbull		53
+Ranshofen		1
+Finchley		23
+Konstanz		317
+Stafa			20
+Oost-Souburg		76
+Greenwich		16
+Sao Joao da Boa Vista	3
+Ashukino		1
+Santo Antonio da Patrulha	24
+Clearwater		735
+Billerica		2
+Titz			1
+Solo			17
+Bicske			33
+Sovetskiy		116
+Sola			1
+Banino			2
+Commack			1409
+Millbury		2
+Chatsworth		142
+Zedelgem		1
+Chop			2531
+Sucre			4
+Ryazan			292
+Bremerhaven		1
+Purisima de Bustos	21
+Lacombe			10
+Rayton			3
+San Francisco de Macorís	9
+Charcani Grande		11
+Winter Haven		3
+Grancona		75
+Risskov			1
+Alstead			1
+Campo Novo		2
+Ciney			2
+Erps-Kwerps		136
+Vertou			9
+Wednesbury		6
+Bryne			4
+Woolloomooloo		1
+Székesfehérvár		11
+Aberystwyth		10
+Cerro Maggiore		8
+Clayton			48
+Missouri City		143
+Ozimek			88
+Teteven			13
+Tuchow			51
+Sarajevo		71
+Ludza			152
+Brielle			1
+Joinville-le-Pont	9
+Bus'k			372
+Raul Soares		1
+Uşak			27
+Kimso			21
+Abiko			1
+Mangalagiri		8
+Ramos Mejia		23
+Békéscsaba		243
+Regina			267
+Purcellville		412
+Roscoff			2
+Lak Si			54
+Navelim			5
+La Spezia		14
+Pleasant Prairie	7
+Ayr			8
+Kebon Kelapa		1
+Lewis Center		1
+Westborough		5
+Tobol'sk		1
+Pereyaslav-Khmel'nyts'kyy	9
+Dubai			2834
+Skipton			4
+Itinga			1
+Sao Jose do Egito	1
+Hendon			1
+Saharanpur		8
+Aberfeldie		4
+Senden			3
+Montclair		66
+Pecice			1
+Katy			4714
+Nikaia			11
+Sao Pedro da Aldeia	6
+Jundiaí			3
+Indirapuram		4
+Karlstad		113
+Tolyatti		440
+Akalan			13
+Cuggiono		3
+Novoshakhtinsk		37
+Forio			1
+Slomin			4
+Wrzesnia		32
+Carbondale		6
+Nikopol'		1766
+Hayward			484
+Evergreen		444
+Rueil-Malmaison		3
+Vitarte			24
+Lutzelhouse		46
+Campo do Meio		4
+Oravska Lesna		157
+Palembang		5
+Gislaved		1
+Verl			1
+Alpine			1
+Zhukovskiy		4924
+Las Casas		9
+Grove			8
+Saint-Genest-Lerpt	4
+Boissevain		1
+Aydin			9
+Vendryne		7
+Taiyuan			341
+Noril'sk		13
+Oros			7
+Point			3
+Catonsville		1
+Alcorcón		10
+Ra'anana		3
+Poing			8
+Hachiōji		1
+Dourdan			3
+Itaquaquecetuba		4
+Hørsholm		126
+Brockenhurst		50
+Kurchatov		3
+Nizhnevartovsk		226
+Saint-Georges		28
+Nara			7
+Semnan			74
+Heerlen			12
+Placentia		2
+Ahrensburg		38
+Faro			7
+Suleja			18
+Tighina			268
+Bukit Batok New Town	9
+Skellefteå		36
+Przeworsk		7
+Rio Pardo		8
+Santo Amaro da Imperatriz	14
+Garching bei Munchen	745
+Xenia			2
+Levis			26
+Lawton			2
+Rishra			78
+Bolton			20
+Hastings		4
+Wichita Falls		1
+Glendale Heights	1
+Rajahmundry		3
+Banyo			1
+Lomonosov		12
+Farmville		2
+New York		108880
+Eberswalde		3
+Surgut			160
+Oldenburg		29
+Tsukuba			75
+Stalowa Wola		6
+Marechal Deodoro	86
+Montreux		1
+Arese			5
+Smithtown		1
+Long Island		377
+Caxias do Sul		26
+Narberth		37
+Weinheim		24
+Dike			3
+Międzyrzecz		26
+Lethbridge		3
+Decatur			2923
+Conegliano		8
+Marbella		32
+Fagelmara		1
+Gwangju			16
+Cikini			8
+Chofugaoka		9
+Krasnoobsk		39
+Raritan			513
+Cegled			7
+Chignolo Po		4
+Araripina		61
+Sertanopolis		5
+Silvertown		2
+Denizli			19
+Montpellier		49
+Naousa			25
+Krimpen aan den IJssel	167
+Tahoka			1
+Pozzo di Gotto		1
+Bhagalpur		1
+Nilopolis		85
+Shawnee			10
+Renca			2
+Paris			49333
+Morristown		20
+Athurugiriya		2
+Independence		950
+Monchaltorf		2
+Walton			7
+Northwich		92
+Tychy			76
+Keswick			13
+Buffalo Grove		395
+Rovenki			1
+Aalborg			14
+Sanwer			5
+Pilsen			84
+Ribeirão das Neves	14
+Sao Jose do Rio Pardo	29
+Irapuato		26
+Tete			10
+Buaran			22
+Weyburn			1
+Nocera Inferiore	26
+Jinju			8
+Lytkarino		4
+Itajaí			2
+Reutov			1373
+Amadora			67
+Herk-de-Stad		13
+Esteio			4
+Anniston		2
+Fleure			2
+Souderton		927
+São Paulo		4740
+Naerum			6
+Sparta			231
+St. Julian's		5
+Sandton			217
+Rypin			68
+Bozicany		9
+Posadas			101
+Linden			1
+Mosina			125
+Oldwick			2
+Flero			6
+Havdrup			11
+Smyadovo		3
+Honiara			2
+Adra			7
+Los Angeles		82090
+Kunhegyes		1
+Rancagua		4
+Akhiok			3
+Harth			53
+Alicante		5433
+Grundy Center		2
+Pompano Beach		960
+Sierpc			1
+Sorrento		3
+Ilulissat		2
+Santa Fe		17
+Hagersten		26
+Waldkirch		10
+La Mirada		2
+Morang			1
+Storvik			13
+Selfoss			32
+Newport Pagnell		61
+Abha			3
+Žilina			47
+Hanoi			4106
+Malinovo		100
+Passos			104
+Toyoake			59
+Malang			26
+Turin			315
+Mauthausen		51
+Ittre			1
+Springfield Township	161
+League City		16
+Macerata		1219
+St. Augustine		15
+Valparaíso		56
+Saint Paul		1261
+Ponta Grossa		5
+New Farm		7
+Burgstaedt		2
+Etten			1
+Kfar Saba		279
+Talence			65
+Langhirano		3
+Cresson			1
+Lee's Summit		7
+Vila Maria		1
+Vetlanda		1
+Martinez		30
+Sao Joao Batista	2
+Bethlehem		111
+Alexania		1
+Tyachiv			49
+Panorama		3
+Kadan			1
+Tallinn			10300
+Algarrobo		6
+Cumming			28
+Unterlunkhofen		5
+Gothenburg		329
+Igualada		33
+Vittorio Veneto		5
+Nantong			3
+Agrate Brianza		1
+Buenos Aires		4600
+Schleedorf		49
+Zdikov			2
+Fort Knox		1
+Hallaar			509
+Kavadarci		4
+Yangzhou		2
+Bang Bon		70
+Gijón			4
+Kilkenny		2
+Carmel			745
+Querétaro City		288
+Oberkochen		1
+Zawonia			7
+Rionegro		1
+Colombo			96
+Besiktas		2
+São João del Rei	49
+Sapporo			7
+Vasilati		5
+Cankaya			2
+Mill Run		1
+Hayden			1
+Gan Yavne		4
+San Francisco		277002
+Zhytomyr		6133
+Milford			18
+College Station		12
+Jordbro			2
+Parsdorf		4
+Chrastna		1
+Mage			54
+Kampala			23
+Agoura Hills		5549
+Myjava			6
+Itamaraju		232
+Gateshead		7
+Camberley		20
+Des Plaines		3
+Casablanca		569
+Aarau			4
+Gustavo A. Madero	4
+Mérida			189
+Pavlodar		6
+Windhoek		9
+Westwood		3
+Wakayama		1
+Vladivostok		1008
+Ladenburg		4
+Acton Turville		3
+Tres Rios		2
+Banja Luka		10
+Belvidere		57
+Eugene			35
+Bargfeld-Stegen		2
+Lalaguda		3
+Flemalle		3
+Montana			1
+Balneário Camboriú	28
+La Courneuve		139
+Valenza			2
+Saxonburg		2
+Barrow			641
+Canoas			26
+Mooresville		49
+Le Havre		3
+Treviolo		184
+Capilla del Senor	41
+Kolnes			16
+Manggarai		1
+Bogatynia		1
+Granadero Baigorria	8
+Rushville		90
+Sant Boi de Llobregat	3
+Fort Collins		80
+Minsk			15775
+Brookville		3
+Szigetszentmiklos	1171
+Canario			1
+Roselle			2
+Greenville		372
+Hood River		2
+Calgary			4285
+Nakhon Ratchasima	2
+Yuzhno-Sakhalinsk	49
+Wooster			6
+Serra			168
+Créteil			37
+Viljandi		24
+Kostroma		295
+Zaratamo		24
+Pistoia			6
+Kissimmee		9
+Cascais			14
+Rio Verde de Mato Grosso	23
+Sibu			5
+Mortsel			11
+Wels			277
+North Chicago		1
+Chelsea			1
+Comayaguela		11
+Bela Vista de Goias	3
+Jatimulya		2
+Simitli			1
+Gettysburg		3
+Wasilla			7
+Escazu			23
+Kingsbury		1
+Kjeller			5
+Lehigh Acres		160
+Kavalerovo		1
+Longueuil		37
+Anacapri		7
+Riga			8261
+Nivelles		9
+Opava			68
+Ciudad de Dios		5
+Debrecen		142
+Melksham		1
+Converse		4
+Montevrain		4
+Villa Alemana		4
+Chocen			6
+Amarpur			2
+Wynnewood		39
+Azpeitia		3
+Valença			7
+Gattico			1
+O'Fallon		277
+Lewisburg		14
+Sulzheim		22
+Britania		1
+San Tung Chung Hang	2
+Amaye-sur-Orne		21
+Moorabbin		1
+Orléans			26
+Choloma			5
+Sunland			3
+Ivaipora		3
+Kensington		286
+Botelhos		27
+Dammam			1
+High Wycombe		11
+Cranbourne		19
+Bar Harbor		2
+Langford		2
+Prestfoss		1
+Coronda			56
+Khmel'nyts'ke		1252
+Lavras			35
+Volzhskiy		117
+La Chorrera		4
+Bella Vista		152
+Piaseczno		4
+Brindisi		14
+Chino			1
+Gofis			1
+Villa Bosch		6
+La Ricamarie		26
+Machala			53
+Kelamangalam		3
+Del Viso		1
+Lingampalli		1
+Sant Andreu de Palomar	1
+Tenancingo		17
+Atherstone		1
+Adıyaman		33
+Goudswaard		9
+Espejo			1
+Tronzano Vercellese	7
+Schaffhausen		4
+Serov			3
+Munsingen		21
+Metairie		4
+Cabedelo		1
+Newcastle upon Tyne	132
+Lake Geneva		27
+Balcarce		5
+Coin-les-Cuvry		1
+Leimen			334
+Colorado Springs	1704
+Ust'-Ilimsk		1
+Caruaru			2
+Málaga			90
+Ile-Ife			158
+Jönköping		18
+Csakvar			7
+Hamrun			4
+Premosello-Chiovenda	2
+Berea			1
+Atsugi			3
+Pajeczno		8
+Vilhena			34
+Obninsk			82
+Rickmansworth		73
+Las Vegas		16830
+Torrejon de Velasco	1
+Jungnam			228
+Schwerin		10
+Russellville		2
+Cranfield		21
+Canonsburg		1
+Lewisham		1
+Kloten			71
+San Miguel de Allende	125
+Gaspoltshofen		596
+Paso del Rey		7
+Aguascalientes		209
+Rîbniţa			154
+Staw			1
+Seymour			1
+Paternò			6
+Poughkeepsie		2
+San Luis Potosí City	360
+Vila Pereira		7
+Akron			27
+Maywood			1
+Megion			20
+Lake Charles		5
+West Lafayette		240
+Forst			1
+Jiaozuo			6
+Ronneby			37
+Satalice		29
+Cornaredo		4
+Ziliz			6
+Salaspils		696
+Krosno			19
+Waverley		32
+Barreiras		4
+Parow			5
+Brniste			3
+Ujszentivan		1
+Forestville		4
+Eichenzell		669
+Cambados		139
+Tampere			1227
+Alsgarde		65
+Juiz de Fora		402
+Kerpen			1
+Grajau			6
+Passau			108
+Reeuwijk		120
+Madre de Deus		8
+Kayapinar		18
+Dubiecko		9
+Arequipa		45
+Yinchuan		11
+Pekan			19
+Magelang		3
+Kłodzko			12
+San Sai			2
+Apucarana		44
+Esine			1
+Varzea da Palma		1
+Duluth			584
+Schwenksville		692
+Runenberg		4
+Aarhus			216
+Ternopil		23118
+Kartal			1
+Uberlândia		25
+San Miguel		79
+Belogorsk		34
+Subang Jaya		84
+Allegan			2
+Ruschlikon		3
+Valle di Maddaloni	3
+Eching			1
+Vanadzor		6
+Danli			3
+Niiza			2
+Linda a Velha		343
+La Punta		3
+Lebork			4
+Paraiso			6
+Coimbra			82
+Oak Brook		32
+Jonesboro		48
+Zadar			1
+Barrinha		1
+Suqian			7
+Hackensack		674
+Vaprio d'Adda		73
+Villa Ballester		75
+Nagpur			7
+Afogados da Ingazeira	8
+Green River		1
+Indialantic		42
+Yaoundé			33
+Suipacha		3
+Huizhou			1
+Besançon		93
+Nyagan			271
+Naarden			1
+Rignano Flaminio	49
+Jaboatao dos Guararapes	492
+Armada			5
+Vildbjerg		10
+Pärnu			6
+Ingleburn		1
+Haedo			99
+Durgapur		71
+Luchegorsk		52
+Winfield		9
+Sparks			1
+Stary Oskol		2
+Writtle			1
+Rawalpindi		17
+Serang			16
+Cernusco sul Naviglio	6
+San Bernardo		1
+Barbacena		56
+Città di Castello	103
+La Calera		18
+Concon			2
+Chatham			246
+El Bosque		9
+Heisdorf-sur-Alzette	2
+Salzburg		502
+Vidin			3
+Rock Hill		147
+Flensburg		2
+Serra Talhada		71
+Ancon			4
+Cambridge		3541
+Losino-Petrovskiy	1
+Burjassot		36
+Herzogenbuchsee		375
+Vaggeryd		4
+Amruthahalli		12
+Mashhad			24
+Mazkeret Batya		7
+Dianella		3
+Rovinka			2
+Bengaluru		3116
+Cranleigh		28
+Aprilia			6
+Peresvet		1
+Mülheim			10
+Clane			7
+Mejorada del Campo	1
+Barrie			55
+Udupi			7
+Eatons Hill		1
+Clifton Forge		2
+Veles			99
+Coquimbo		74
+Markham			110
+De Soto			22
+Rockville		788
+Santa Cruz do Sul	2
+Burnaby			386
+Stobrawa		2
+Sendai			2
+Pilot Mountain		470
+Wilga			1
+Selkirk			2
+Rakvere			44
+Viña del Mar		49
+Wagga Wagga		11
+Placerville		1
+Qiryat Ono		2208
+Regensburg		271
+Ascoli Piceno		9
+Autoreille		5
+Wilkesboro		1
+Depok			143
+Lubbock			27
+Angra dos Reis		26
+Gifu City		7
+Boardman		116028
+Camposano		2
+Orlova			56
+Tomares			5
+Helsinki		24753
+Ridder			1
+Wuppertal		679
+General Viamonte	1
+Diakovce		836
+Amora			23
+Montescourt-Lizerolles	6
+Chongqing		65
+Lorient			6
+Bakersfield		39
+Cape Girardeau		3
+Nanticoke		1
+Bourg-la-Reine		2
+Bonn			319
+Tarsus			60
+Tema			1
+Tbilisi			338
+Port Louis		46
+Fronteira		30
+Aalter			12
+Sun City		24
+Possagno		4
+Okatie			1
+Ciechanów		4
+Piastow			4
+Ried im Innkreis	218
+Antalya			641
+Rupert			2
+Santa Rita		2
+New London		1
+Capelle aan den IJssel	389
+Kiev			2645481
+Oranit			12
+Lyubertsy		350
+Santa Fe Springs	1
+Jaragua			2
+Kiel			547
+San Pedro Martir	19
+Putaendo		13
+Ajodhyapur		5
+Havlíčkův Brod		17
+Flat Rock		1
+Oeiras			1
+Jablonna		3
+North Myrtle Beach	23
+Whitecourt		1
+Nantes			404
+Passo Fundo		117
+Chatham Borough		1
+Vas'kino		44
+Wakefield		15792
+Bellinzona		5
+Sterlitamak		14
+New Albany		81
+San Mango sul Calore	10
+Haugesund		36
+Weitingen		9
+Dunay			1
+Urbandale		1
+Casier			1831
+Jackson			81
+Caracas			912
+Waganiec		1
+Cabra			3
+Moreshet		8
+Pasig			127
+Elverum			1
+Nelspruit		8
+Askim			10
+Chernihiv		23837
+Pratteln		16
+Labege			5
+Varginha		54
+Opatovice nad Labem	1
+Maipu			1
+Sodra Sunderbyn		5
+Caldera			8
+San Antonio		277640
+Sao Luis do Curu	93
+Minden			2
+Hounslow		2651
+Stavanger		153
+Naestved		16
+Pilar			5
+Cochrane		2
+Alguazas		4
+Rhein			7
+Maioba			1
+Brzeszcze		5
+Cupertino		1
+Winkler			24
+Bauru			5
+Ferozepore		4
+Cachoeirinha		41
+Kynsperk nad Ohri	3
+Kelkheim (Taunus)	8
+East Greenwich		3
+Talagante		1
+Maykop			9
+Baraolt			1
+Louny			6
+Piscataway		1269
+Alamogordo		2
+Mineola			26
+Kincsesbanya		9
+Crown Point		5
+State University	4
+Nynashamn		16
+Victorville		1
+Koka			1
+Piazzola sul Brenta	2
+Ministro Rivadavia	1
+Le Mans			128
+Erhard			5
+Larnaca			105
+Primorsko-Akhtarsk	3
+Idyllwild		2
+Gauchy			1
+Morainvilliers		354
+El Ejido		15
+Zwonowice		239
+Central District	9298
+Enfield Town		213
+Rybnik			51
+Courdimanche-sur-Essonne	3
+Belfield		11
+Balite			1
+Ibipora			6
+Bozeman			2
+Balen			1
+South Bristol		1
+Conway			75
+Little Elm		1
+Amiens			7
+Sokolov			17
+Worcester		166
+Mechanicsburg		2
+Cleveland		156
+Brunnenthal		23
+Neviano degli Arduini	1
+Los Gatos		88
+Beraja			16
+Athens			2872
+Hebburn			18
+Kuwait City		83
+Balgat			2
+Karlsruhe		1265
+Hibbing			52
+Pfungstadt		109
+Prato			87
+Stow			30
+Cesena			19
+Harrisburg		197
+Thonex			6
+Gnosjoe			2
+Bintaro			3
+Frick			1
+Freeport		2
+Montemurlo		5
+Oroville		4
+Santa Marta		1
+Alpignano		14
+Scott Air Force Base	4
+Parma			219
+Blantyre		14
+Des Moines		429
+Portland		12125
+Roseburg		3
+Arzignano		1
+Aguai			2
+São Leopoldo		16
+Drayton Valley		6
+Zaragoza		19
+Bloemfontein		5
+Offenbach		57
+Alzano Lombardo		78
+Philippi		17
+Collado Villalba	8
+Ciudadela		12
+Tampa			6594
+Prittriching		2
+Kefar Yehezqel		4
+Grevenbroich		2
+Sturgis			38
+Concepción		50
+Ezpeleta		2
+Pellerd			46
+Piacenza		68
+Valdivia		15
+Dolmayrac		1
+Miserieux		12
+Fresno			143
+Vel'ke Dvorniky		2
+Grottaglie		3
+Maribor			80
+Otwock			31
+Bridgend		24
+Naperville		417
+Gamprin			2
+Caldwell		1
+Brandenburg		1
+Werlte			61
+Dorogobuzh		29
+Fontaines-sur-Saone	1
+Sopot			147
+Northford		30
+Santa Rosa Beach	92
+Siedlce			25
+Piove di Sacco		1
+Saltillo		7
+Viamão			34
+Due West		1
+Wageningen		1
+Singera			9
+East Wenatchee		2
+Trnava			52
+Electronics City	1
+Kota			6
+Graz			175
+Fort McMurray		7
+Pordenone		10
+Nova Milanese		11
+Changzhou		6
+Khmel'nyts'kyy		20124
+Bakov nad Jizerou	32
+Quendorf		21
+Uetze			3
+Montreuil		55
+Mata de Sao Joao	53
+Yreka			8
+Grugliasco		1
+Essen			196
+Dhanbad			9
+Grand Forks		7
+Bidart			9
+Bang Khae		18
+Greifswald		46
+Wilkes Barre		164
+Adana			7
+Alès			2
+Richfield		25
+Machico			12
+Siggiewi		2
+Gainsborough		1
+Kukusan			16
+Plewiska		8
+Tovarkovo		1
+Calexico		51
+San Miguel de Tucumán	1
+Coriano			3
+Vallirana		1
+Belleville		13
+Vicosa			116
+Tecoman			14
+Reykjavik		66
+Mission Viejo		2
+Éclépens		7
+Stara Zagora		45
+Riccione		1
+Bela Vista		1
+Bryanston		18
+Sunchales		1
+Semenyih		3
+Jegenstorf		41
+Limeira			2
+Itauna			5
+Mem Martins		21
+Itaguara		1
+Hillsboro		1
+Funabashi		17
+Nowe Brodno		20
+Arslev			2
+Fiorenzuola d'Arda	5
+Reynoldsburg		3
+Winterset		22
+Quakenbrueck		3
+Oldenzijl		1
+Energodar		1123
+Cusco			14
+Wilmington		150600
+Ambegaon		2
+Saronno			2
+Usingen			10
+Oderzo			1
+Quito			1291
+Terni			93
+Doha			275
+Springwood		4
+Safi			2
+Mission			15
+Friolzheim		166
+Osik			4
+Teutonia		17
+Paitilla		7
+Salgado			17
+Bushnell		5
+Kirrawee		5
+Cavernago		1
+Dundee			49
+Koryazhma		5
+Iguaba Grande		27
+Occhiobello		4
+Dragoman		131
+Manila			118
+Chennai			3715
+Trujillo Alto		3
+Ipoh			33
+Lenzburg		1
+Welland			28
+Kislovodsk		25
+Spanish Fork		3
+Whitestown		2
+Plottier		3
+Forlì			35
+Orem			43
+Lynnwood		31
+Beltsville		50
+Linstead		6
+Zlín			97
+Bonyhad			1
+Acquafredda		8
+Jessheim		20
+El Quisco		2
+Ivry-sur-Seine		196
+Parker			1
+Chessington		3
+Merseburg		2
+Les Lilas		1
+Belebey			5
+Don Mueang		54
+Ujjain			4
+Bleiburg		6
+George			9
+Rostov			1897
+Porto Rico		23
+Karamursel		7
+Artemivs'k		562
+Ulan Bator		315
+Lo Prado		3
+Sorocaba		30
+Robertsfors		21
+Chisinau		10268
+Cordeiropolis		2
+Agfalva			144
+Targovishte		1
+Kuala Lumpur		723
+Besyol			18
+Bern			262
+Grenoble		12
+Birgu			2
+Odesa			171263
+Paderborn		108
+Reutlingen		33
+Novoaltaysk		22
+Solec Kujawski		36
+Soraker			1
+Nonthaburi		205
+Cape Town		672
+Sunnyvale		177141
+Oklahoma City		480
+Crotone			28
+Kiziltoprak		5
+Rolante			10
+Triesen			70
+Tlalnepantla		479
+Casoli			1
+Bad Ditzenbach		2
+Tilburg			24
+Bom Retiro do Sul	7
+Kroměříž		1
+Bhaskola		25
+Wittislingen		4
+Capilla del Monte	1
+Girua			2
+Spytkowice		3
+Aqtöbe			34
+Arapiraca		2
+Lizzanello		1
+Valtice			1
+Opole			124
+Wałbrzych		8
+Choba			1
+Netanya			211
+Ulu Bedok		4
+San Telmo		2
+Amalfi			6
+Landskrona		4
+Imeni Vorovskogo	1
+Pordic			3
+Wynnum			1
+Westbrook		1
+Monterey Park		1
+Genoa			489
+Pickerington		18
+Gatchina		4
+Mutterstadt		2
+San Rafael		705
+Anzio			20
+Wyszków			40
+Schoenebeck		1
+Jena			201
+Bloomsburg		2
+Puente Alto		1
+Paterson		8
+Biella			52
+Palkonya		2
+Louhi			283
+Bryansk			401
+Oberwangen		9
+Benito Juarez		38
+Aliquippa		5
+Dietzenbach		232
+Diadema			9
+Baraq			157
+Munich			8665
+Unna			4
+Sierra Madre		11
+Kottayam		19
+Makhachkala		2
+Unicov			112
+Borlänge		32
+Currie			1
+Antananarivo		3
+Martin			49
+Greater Sudbury		11
+Haysi			17
+Ecatepec de Morelos	1
+Burkat			1
+Guizhoumanzuxiang	1
+Jacobina		52
+Landgraaf		1
+McKinney		27
+New Kensington		14
+Jay			3
+Handan			28
+Mozyr'			36
+Floriano		7
+Rio de Janeiro		2398
+Kachkanar		4
+Yaroslavl		899
+Valldoreix		6
+Nuevo Laredo		15
+Skawina			9
+Rego Park		5183
+Küssnacht		3
+Schweighouse-Thann	3
+Delhi			2906
+Artëm			1
+Landing			2
+Nogent-sur-Marne	13
+Ponce de Leon		1
+Langenneufnach		2
+Norfolk			136
+Rogers			2
+Sapeacu			2
+Annandale-on-Hudson	7
+Bhaktapur		2
+Phnom Penh		134
+Ventspils		16
+Stallikon		373
+Eckbolsheim		2
+Kenosha			14
+Dolega District		4
+Buchholz in der Nordheide	14
+Wloszczowa		1
+Schwarme		22
+San Giovanni in Marignano	71
+Yorkton			3
+Bellaterra		1
+Areial			3
+Son en Breugel		1
+Glenview		2318
+Palm Coast		4
+Banská Bystrica		46
+Deer Park		2
+Dugopolje		3
+North Las Vegas		3197
+Maricopa		2
+Santa Isabel do Para	2
+Guadalajara		1222
+Zanjan			35
+Little Silver		27
+Huntington Station	25
+Kütahya			14
+Colonia Mexico		280
+Baruipur		2
+Ayabacas		18
+Neu-Ulm			29
+Kaufdorf		12
+Arcoverde		8
+Kuala Selangor		59
+Panquehue		1
+Ultimo			130
+Stans			91
+Miami Beach		5531
+Lucknow			512
+Kessel			2
+Zwenkau			8
+Driebruggen		15
+Callao			11
+Fort Lee		57
+Alegrete		1
+Lake Oswego		394
+Schweinfurt		3
+Mansa			1
+Klosterneuburg		109
+Acireale		2
+Erie			15
+Kiskoros		1
+Rekarne			1
+Daxini Society		11
+Alestrup		2
+Taganrog		84
+Pura			3
+St. John's		28
+Ibotirama		5
+Hollywood		363
+Kwun Hang		440
+Laferrere		15
+Balurghat		8
+Barakaldo		72
+Uppsala			626
+Aren			1
+Trnovi			1
+Almere Stad		261
+Gyongyostarjan		2
+Honefoss		5
+Batu Caves		6
+Třebíč			23
+Emden			65
+Temperley		32
+Kazincbarcika		4
+Grudziądz		5
+Herminie		3
+Fontenay-aux-Roses	4187
+Tol'yatti		6
+Ahuzzat Baraq		2
+Bresso			9
+Junqueiropolis		23
+Nairobi			680
+Nanterre		37
+Rosiorii de Vede	27
+Bremerton		7
+Partinico		13
+Charqueadas		27
+Pelotas			102
+Jaszbereny		1
+Bergisch Gladbach	12
+Kingsville		2
+Rosh Ha'Ayin		4
+Brumunddal		12
+Leverkusen		2026
+Parsippany		304
+Philadelphia		10859
+Valles			29
+Winnipeg		528
+Sigulda			4
+Danville		178
+Barbaros		28
+Pachuca			189
+Valley			330
+Naples			541
+Brasília		279
+Ingram			1
+Heroica Matamoros	15
+Mankato			10
+Newberry		6
+Sholinganallur		11
+Chester-le-Street	1
+Hanna City		3
+Batalha			52
+Gontenschwil		1
+Brugherio		3
+Torreón			15
+Bensheim		62
+Monte Roberto		25
+Mafikeng		4
+Bjarred			1
+Perafita		21
+Torez			72
+Saraland		20
+Apodi			18
+Peekskill		1
+Samarate		18
+Kedewatan		2
+Carshalton		12
+Elterlein		2
+Thu Dau Mot		2
+Spring Branch		1
+Centurion		13
+Paderno Dugnano		2
+Kaposvár		9
+Uniejów			4
+Cuautitlan		4
+Tomaszow Lubelski	23
+Ourense			6
+Batang			6
+Redlands		68
+Borodyanka		41
+Sajopuspoki		66
+Northfield		4
+Welwyn Garden City	19
+Bartoszyce		37
+Villa			16
+Feliz			9
+Osow			37
+Thanh Pho Ninh Binh	5
+Bagnolet		24
+Simmertal		25
+Bellwood		6
+San Juan		37
+Rockford		1
+Ouricuri		8
+Panevezys		92
+Brendale		2
+Irece			12
+Bourges			3
+Kladno			45
+Smalandsstenar		2
+Pachino			2
+Techa			1
+Pinheiros		17
+Key West		7
+Chisirid		1
+Krasnodar		1400
+Sieradz			124
+Kamogawa		4
+Videira			46
+Rock Port		11
+Cekcyn			21
+Irkutsk			297
+Modugno			8
+Berlin			19251
+Leeds			275
+Płock			4
+Bargachia		7
+Chang-hua		1
+Sao Cristovao		105
+Ichtershausen		1
+Boden			2
+Kwai Chung		3581
+Seongnam-si		183
+Caldas da Rainha	5
+Vertentes		15
+Lugo			173
+Yehud			13
+Tuggerah		69
+Nova Zagora		86
+Lewes			696
+Dulovo			8
+Kifissia		2
+Give			3
+Javea			122
+Igensdorf		1594
+Mesquita		101
+South Burlington	1
+Villanueva de la Serena	58
+Mesquite		182
+Mazzano			20
+Rayville		10
+Novyy Oskol		17
+Nahariya		2
+Arroyo Cabral		46
+Wilhelmshaven		3
+Aix-en-Provence		57
+Hawley			3
+Chotebor		25
+Hazleton		4
+Sant'Anastasia		7
+San Nicolas		6
+Forcalqueiret		1
+Santiago		3600
+Moerfelden-Walldorf	3405
+Brovary			5015
+Bengoeche-Aperribay	7
+Galliate		2
+San Giuliano Milanese	20
+Littleton		189
+Carpina			18
+Si Racha		19
+Milevsko		4
+Velka Bites		13
+Glattburg		25
+Svendborg		4
+Cancún			105
+Belém			282
+Songkhla		12
+Bogotá			2160
+Szuhogy			3
+Kirishi			1
+Antratsit		1
+Shimoga			5
+Grebow			8
+Leesburg		26
+Mercer			1
+Altdorf			2
+Winterthur		12
+Cumberland		1
+Ravenna			90
+Cafelandia		6
+Charge			1
+Bielany			103
+Stralsund		4
+Kosire			85
+Federal Way		2
+Mossoro			34
+Ardea			31
+City of Westminster	1
+Liepāja			13
+Dobbs Ferry		2
+Collonges		110
+Nassau			1145
+Jelupang		4
+Taubate			2
+Volos			6
+Tortuguitas		1
+Alberdi			1
+Maassluis		32
+Castkovce		465
+Filiasi			355
+Lorena			1
+Kansas City		4791
+Cesky Brod		1
+Millsap			3
+Briançon		1
+Beverley		30
+Sulz			7
+Hürth			9
+Aguas de Lindoia	5
+New Milton		2
+Kubrat			8
+Vaughan			156
+Sula			1
+Gzira			36
+Soacha			7
+Senec			161
+Prevalje		2
+El Consejo		2
+Myslenice		10
+Lobnya			5
+Santa Rosa		184
+San Martín de los Andes	1
+Antonio Prado		3
+Ahlen			11
+Sterling		74
+Senningerberg		1
+Kulmbach		28
+Tyumen			163
+Wattignies		4
+Centobuchi		4
+Marysville		1
+Grouville		2
+Nuremberg		75598
+Lindlar			2
+Polaveno		2
+San José		468
+Radom			200
+New Westminster		1183
+Cieszyn			3
+Herten			12
+Plainview		3
+Vigo			220
+Marburg			60
+Bellingham		5
+Zola Predosa		50
+West Covina		7
+Fujimino		2
+Polcenigo		8
+Agra			5
+Marl			14
+Vác			5
+Fujairah		2
+Musashino		124
+Walnut			4164
+Uruapan			3
+Baytown			1
+Soechau			2
+Chillicothe		13
+Veliko Tarnovo		2
+Joao Neiva		1
+Giustenice		54
+Worthing		305
+Pocoes			3
+Wako			3
+Spokane			61
+Tepatitlán de Morelos	5
+San Jose		284004
+Ciudad Guzmán		3
+San Michele al Tagliamento	32
+Oulu			57
+Częstochowa		440
+Ayutthaya		7
+Hyderabad		1289
+Vera Cruz		3
+Villach			36
+Langenau		13
+Monmouth		2
+Goianesia		6
+West Wimbledon		60
+Cassano d'Adda		332
+Ronda			3
+Cartago			36
+Brigham			8
+Nove Mesto nad Metuji	6
+Heraklion		16
+Mahwah			2883
+Pátrai			26
+Saanichton		29
+Ada			2181
+Ljubljana		390
+Monclova		13
+Fort Lauderdale		4725
+Bridgnorth		3
+Traphill		1
+Sarandi			7
+Tübingen		177
+Cibolo			1
+Sampeyre		6
+Monfalcone		2
+Santa Cruz		1458
+Kirovohrad		24453
+Colinas do Tocantins	4
+Olathe			6
+Umraniye		1
+Cardedeu		1
+Kincardine		7
+Mechelen		28
+Kolín			4
+Trondheim		144
+Rtyne			28
+Montmagny		7
+Germantown		7
+Palau-solita i Plegamans	4
+Merzenich		1
+Gilbues			1
+Hirakata		78
+Bentonville		7356
+Termoli			33
+Ogbomoso		1
+Yonkers			2319
+New Knoxville		1
+Dozza			14
+Wentorf bei Hamburg	1
+Verdun			656
+Kings Lynn		1
+Magen			15
+Mora			1
+Nakhabino		379
+Garland			50
+Bene Darom		6
+Simi Valley		60
+Oakwood			1
+Milanesi		2
+Ghent			1281
+Malvern			11
+Karsiyaka		61
+Chon Buri		11
+Plymouth		2718
+La Ceiba		3
+Rejmyre			2
+Almaty			4702
+Pantelimon		3
+Gescher			6
+Paragould		9
+Serra do Salitre	2
+Cataguases		1
+Neudenau		9
+Tai Po			12
+Leonding		8
+East Retford		1
+Ebeltoft		1
+Medvode			41
+Bay Shore		53
+Marrickville		19
+Wijgmaal		10
+Wayland			2
+Ancona			5
+Pervouralsk		2
+Waalre			2
+Kisbey			1
+Renton			317
+Limoeiro		1
+Tipp City		2
+Kostelec nad Cernymi Lesy	2
+Kozienice		560
+Sora			1
+Arouca			8
+Mortdale		3
+Charlestown		2
+Stary Plzenec		2
+Luton			19
+Salo			2
+Velke Bilovice		26
+Sale			46
+Herresbach		97
+Nibong Tebal		9
+Arraijan		1
+Gaesti			616
+Paraiba do Sul		15
+Klina			16
+Nottingham		717
+Ipsheim			1
+New Ulm			47
+Arnhem			110
+Colonia Tres de Mayo	1
+Hassfurt		4
+Porteirinha		2
+Fontanka		16
+Pionki			9
+Bratislava		3890
+Buckingham		15
+Trier			25
+Sao Joao		2
+Montebello Vicentino	13
+Batala			7
+Stevenage		43
+Herne			52
+Campello sul Clitunno	3
+Brotas			1
+Osmo			1
+Mals			4
+Oborniki		42
+Dzerzhinsk		84
+Ellore			5
+Feodosiya		829
+Hattersheim		66
+Walla Walla		183
+Albertirsa		5
+Northampton		19
+Krasnik			9
+Paraná			5
+Rommerskirchen		6
+Istanbul		13036
+Premia de Mar		8
+Sacavem			3
+Caloocan		7
+Itambe			31
+Puente-Genil		7
+Ozark			1
+Mestre			1
+Portadown		4
+La Palma		1
+Avoca			1
+Schiedam		47
+Rautalampi		2
+Wenzhou			15
+Leskovec		20
+Skjern			12
+Salto Grande		1
+Bankura			7
+Palikowka		9
+Slacks Creek		1
+Oran			4
+Yerevan			108
+Tartu			267
+Prairie View		4
+Canoga Park		924
+Pejagalan		1
+Lourinhã		6
+Rose Hill		4
+Huddinge		4
+São Bento do Sul	11
+Casalnuovo di Napoli	4
+Santa Maria a Vico	1
+Saint Helier		232
+Kashiba			26
+Lindon			73
+Crows Nest		9
+Mantova			65
+Gardiner		29
+Garches			6
+Wattens			75
+Badheri			2
+Otterup			2
+Billings Metropolitan Area	1
+Scranton		3
+Conches			9
+Imperial		1
+Ukiah			1
+Mascali			1
+Surco			5
+Pioltello		14
+Bowmanville		1
+Folkestone		1
+Upale			35
+Sao Bento		7
+Herzogenburg		3
+Nykobing Falster	53
+Vechta			21
+Villa Allende		1
+Castel San Lorenzo	1
+Saint Michael		1
+North Melbourne		12
+Staunton		30
+Bragado			1
+Kungsbacka		43
+Cassino			9
+Eschbach		3
+Terra Roxa		7
+Marathon		1
+Towcester		11
+Cartagena		44
+Crownsville		15
+Skarzysko-Kamienna	25
+Fishers			24
+Viimsi			48
+Asansol			15
+Bojong			3
+Binondo			2
+Simferopol		6101
+Fabriano		93
+Chambéry		28
+Marlborough		102
+Menifee			35
+Apollo Beach		3
+Torrejón de Ardoz	194
+San Ramon		1165
+Matsudo			1
+Saekylae		8
+Wetumpka		4
+Thirlmere		3
+Bento Gonçalves		8
+Tampico			183
+Český Těšín		12
+Bournemouth		55
+Cabo Verde		1
+Coelemu			4
+Charleroi		6
+Tehuacán		3
+Gramado			4
+Nîmes			1
+Tar			5
+Shenyang		222
+Alvesta			6
+Bacoli			14
+Benoni			4
+Abbotsford		14
+Sandvika		15
+Susegana		13
+Aspe			13
+Royersford		7
+Wolfern			12
+Valasske Mezirici	42
+Olsztyn			14891
+Komp			21
+Marten			11
+Everett			45
+Niš			92
+Hawthorne		4230
+Kremenchuk		8854
+Meerbusch		15
+Tetange			1
+Coleville		1
+Highland Park		33
+Tomsk			990
+Breda			13
+Canobbio		2
+Coari			5
+Tucson			111
+Ascot			2
+Daleville		14
+Petaling Jaya		84
+Gussago			2
+Uherské Hradiště	99
+Boston			3760
+Abeokuta		4
+Batavia			19
+Bron			7
+Montecorvino Rovella	44
+Corbeil-Essonnes	2
+Mecca			14
+Wieliczka		3
+Burgas			186
+Lanskroun		9
+Johor Bahru		81
+Sidrolandia		5
+Fiesole			2
+Konotop			4
+Great Falls		7
+Tanta			1
+Dulles			211
+Villiers-sur-Marne	1
+Sandbach		235
+Cimahi			66
+Grand Junction		1
+Acapulco de Juárez	20
+Haikou			39
+Asbest			1
+Dussen			12
+Nazret			3
+Paulista		2
+Stockport		42
+Incheon			312
+Madurai			99
+Hubli			16
+Stutensee		3
+Limerick		22
+Stevens Point		10
+Panelia			2
+Sint-Agatha-Berchem	1
+Böblingen		2
+Montichiari		1
+Bilovice nad Svitavou	3
+Surbiton		282
+Gol			38
+Mumbai			3994
+Windom			1
+Baar			10
+Douglas			2669
+Pianura			1
+Olching			1
+Gif-sur-Yvette		3902
+Turčianske Teplice	25
+East Islip		3
+North Reading		72
+Sutri			14
+Sibiu			47
+Mělník			5
+Akhtopol		27
+Sheboygan		42
+San Isidro		42
+Schio			40
+Maracay			47
+Melito di Napoli	12
+Marabá			11
+Harestua		1
+Van Don			348
+Madanpur		1
+Prešov			18
+Croton-on-Hudson	2
+Rumšiškės		15
+Khmil'nyk		34
+Mongkok			19
+Medindie		3
+Beluru			30
+Nanjing			3747
+Gvardeysk		31
+Wexford			1
+Bielany Wroclawskie	1
+Albalat dels Tarongers	7
+Sarcelles		6
+Johannesburg		1307
+Podolsk			1332
+Belgharia		21
+Depere			33
+Chiclayo		18
+Southbank		1
+Redmond			56647
+Courbevoie		417
+Theodore		8
+Abu Dhabi		500
+Lelystad		2
+Milford Haven		33
+Caravaggio		24
+Hamminkeln		4
+L'Isle-Verte		1
+Magna			12
+Tarnobrzeg		31
+Heverlee		6
+Tokorozawa		4
+Olavarría		18
+Vanderbijlpark		1
+Ingelheim am Rhein	27
+Santiago de Compostela	38
+Lopburi			2
+Kisujszallas		8
+Recanati		1057
+Ilhéus			126
+Marmirolo		9
+Telford			3
+Maple Ridge		2
+Hellemmes-Lille		758
+Huron			3
+White Plains		95
+Ilderton		120
+Rochester		1643
+Ob'			2
+Nagypirit		10
+Franca			2
+Borås			9
+Rize			6
+Cheyenne		15238
+Płońsk			1
+Morrison		1
+Vestec			12
+Lehi			4279
+Karagandy		13
+Cedar City		6
+New Orleans		2
+Sao Jose da Barra	2
+Tehran			448
+Weesp			9
+Ban Khlong Prawet	7
+Guiglia			1
+Mustafakemalpasa	35
+Offenburg		1
+Beckton			2
+Nisko			5
+Birapurusottampur	1
+Viladecans		9
+Santa Brigida		3
+Pompton Lakes		1
+Campione		17
+Kuopio			2
+Saint-Jean-sur-Richelieu	6
+Dobris			1
+Wernigerode		232
+Ernakulam		36
+Oneonta			2
+Vicksburg		108
+Raeyrinki		3
+Eagle River		4
+Wörgl			281
+Bielawy			6
+Bracknell		23
+Neubrandenburg		2
+Khartoum		26
+Mimarsinan		2
+Most			14
+Ajax			1
+Mława			30
+California		18
+Landriano		2
+Saugus			3
+Ostseebad Binz		23
+Edgware			4
+Mayfield		3
+Oxie			19
+Rutland			2
+Saint-Nom-la-Breteche	156
+Mornington		3
+Almería			69
+Antibes			11203
+Oberengstringen		75
+Gimhae			37
+Parral			5
+Bennettsville		1
+Pulsano			2
+Cumaru			7
+Maracanau		27
+Pulaski			2
+Palma de Mallorca	29
+Penn			13
+San Clemente		697
+Loma Verde		2
+Hueckeswagen		7
+Capivari		13
+Ituzaingo		22
+Solkan			65
+Spišská Nová Ves	1
+Erandio			1
+Itupeva			1
+Roggiano Gravina	15
+Buhl			39
+Lithia Springs		710
+Benešov			1
+Bethnal Green		15
+Glendale		393
+North Providence	2
+Iserlohn		1
+Soller			24
+Papendrecht		6
+Gora Kalwaria		2
+Izmir			356
+Roorkee			2
+Caldiero		6
+Rockwood		1
+Fano			1
+Ma'anshan		2
+Maranguape		75
+Tyler			66
+Lapataia		1
+Spentrup		7
+Erlangen		281
+Rockledge		5
+Az Zamalik		24
+Monte Rio		5
+Jiaxing			11
+Sanming			2
+Berkeley		227
+Perpignan		1
+Tivoli			1
+Tromsø			94
+Cau Giay		18
+Flores da Cunha		18
+Grandville		111
+Macapá			95
+Ensenada		129
+Alberti			5
+Alexandria		465
+Cincinnati		1005
+Saint-Joseph-du-Lac	38
+Hrabovo			2
+Estancia Nova		5
+Etobicoke		3
+Kirribilli		3
+Bedfordview		1
+Belconnen		654
+Breckenridge		1
+Ladendorf		4
+Cranberry Township	4
+Escolca			1
+Wembley			1
+Karmi'el		27
+Longkou			179
+Vale de Prazeres	5
+Šiauliai		343
+Santiago de Surco	5
+Pittsburgh		445
+Candido Rodrigues	9
+Moscow			973812
+San Fernando de Monte Cristi	1
+Grezzana		33
+Gretz-Armainvilliers	47
+Lynchburg		14
+Mirpur			1
+Droitwich		81
+Gelnhausen		16
+Recklinghausen		83
+Altagracia		38
+UEskuedar		1
+Wettingen		108
+Agara			21
+Minerbio		10
+Taylor			1
+Ojebyn			2
+Coacalco		11
+Hamadan			5
+Red Oak			15
+Erpe			5
+Braunas			1
+Mejillones		5
+Laurentino		6
+Ely			854
+Campos do Jordao	91
+Canning Vale		1
+Thomasville		48
+Racine			78
+Boulder			1377206
+Sønderborg		11
+Norman			50
+Normal			3
+Gomez Palacio		85
+Haderslev		5
+Nanchang		88
+Sutton			2
+Boca Raton		129
+Kistelek		9
+Nola			4
+Villiers-le-Bel		191
+Nymburk			8
+Magalhaes		25
+Ruthton			1
+Chinle			333
+Petrópolis		88
+Muntinlupa		92
+Minacu			4
+Alto Parana		9
+Allenton		1
+Okayama			14
+Goleta			3226
+Frankfield		1
+Hospers			13
+Ponneri			4
+Florence		105
+Haarlem			4511
+Gyeongju		1
+Herscheid		17
+Bakhchisaray		6
+Tata			17
+Lock Haven		9
+Wesseling		9
+Goianinha		15
+Keelung			16
+Culver City		1847
+Kings Langley		3
+Patrocinio		76
+Morrovalle		3
+Rodgau			3
+Volta Redonda		98
+Kalundborg		74
+West Liberty		4
+Fiumicino		30
+Gyenesdias		1
+Crestview		11
+Borisoglebsk		14
+Stanford		204
+Vannes			4
+Berceni			1
+Milroy			2
+Ambato			15
+Hayes			200
+Lallaing		3
+Vierkirchen		59
+Taunton			7
+As			45
+Foz do Iguaçu		6
+Curtici			21
+Warsaw			44193
+Nampula			2
+Haskovo			141
+Sierra Vista		9
+Gorzyce			14
+Ypsilanti		3
+New Delhi		1388
+Weiden			87
+Voghera			17
+Czudec			9
+Durbanville		3
+Sardice			1
+Mykolayiv		33767
+Silao			45
+Ataturk			1
+Bergamo			237
+Prostějov		1
+Dundalk			19
+Silverdale		3
+Truccazzano		10
+Red Bank		1
+Itami			28
+Biłgoraj		32
+Chico			3420
+Charlotte		4755
+Vaasa			5
+Brisbane		895
+Coccaglio		4
+Caçador			31
+Saint-Pierre-les-Elbeuf	1
+Balikpapan		5
+Casoria			2
+Ciudad Choluteca	25
+Senhor do Bonfim	31
+Garden Grove		20
+Baveno			1
+Moorland		1
+Berryton		1
+Samorin			26
+Reola			2469
+Timbo			21
+Damnica			1
+Akkayyapalem		4
+Montesarchio		3
+Pacaja			36
+Adamstown		19
+Bawang			38
+Wundowie		1
+Embu			14
+Chetumal		34
+Tierp			32
+Houghton		4
+Vurnary			4
+Choszczno		16
+Windham			1
+Sazava			29
+Petropavl		3
+Chirpan			10
+Turre			6
+Gioia del Colle		2
+Dharmaram		2
+Bach			49
+Holic			1
+Turek			14
+Ahu			1
+Quinnesec		1
+Zuidland		18
+Lomas de Zamora		8
+Middlebury		20
+Gmina Świebodzin	6
+Marsala			1
+Monsenhor Tabosa	1
+Cerklje na Gorenjskem	1
+Waldheim		5
+Estarreja		18
+Lecco			24
+Fribourg		22
+Kapaau			1
+Votorantim		3
+Lecce			13
+Papa			125
+Schwandorf in Bayern	3
+Memmingen		83
+Dunaharaszti		45
+Lent			1
+Memphis			229
+Dinklage		3
+Coswig			3
+Casimiro de Abreu	33
+Vologda			1038
+Roxboro			1
+Podenzano		7
+Sanad			9
+Rio Bonito		27
+Baranowko		118
+Dunapataj		1
+La Lucila		9
+Municipio de Copacabana	1
+Monterey		37
+Campo Magro		1
+Jaraguá do Sul		41
+Tamluk			19
+Halifax			439
+Nevada			1
+Neusass			2
+Box Elder		22
+Cimenyan		2
+Heaters			253
+Surabaya		317
+Neuchatel		36
+Novokuznetsk		146
+Urduna			2
+Lovell			1
+Friedberg		1
+Utica			2
+Santana do Araguaia	11
+Peruibe			23
+Eger			205
+Khobar			1
+Olstykke		20
+Campestre Churubusco	10
+Gora			80
+Castres			5
+Al Ahmadi		28
+Harsefeld		19
+Calamba			4
+Namur			35
+Tegucigalpa		322
+Attleboro Falls		3
+Frankfurt am Main	242596
+Khanty-Mansiysk		1
+Roman			21
+Ratingen		53
+Vitoria-Gasteiz		11
+Indore			639
+Osieczna		10
+Biel/Bienne		21
+Lendava			22
+Bytom			59
+Marinilla		1
+Mihailesti		7
+Bohumin			2
+Serpukhov		1531
+Marsta			1
+Wilson			1
+Krasnogorsk		906
+Gonzales		26
+Vilvoorde		332
+Port Antonio		16
+Katwijk			99
+Neumarkt-Sankt Veit	789
+Klatovy			57
+Sarmiento		21
+Stanton			2
+Settimo Torinese	39
+Conroe			55
+Santo Amaro		2
+Ying Pun		10
+Miami			8605
+Zeist			6
+Parksville		48
+Topeka			1
+Belišće			5
+Vobarno			12
+Fetesti			4
+Bridport		6
+Maldah			15
+Banderas del Aguila	1
+San Pablo		5
+Kalyan			3
+Saynatsalo		5
+Freitas			18
+Curtea de Argeş		227
+Eusebio			5
+Vladikavkaz		155
+Trutnov			6
+Santa Filomena		3
+Skanderborg		9
+Sao Francisco do Sul	1
+Rosiori			2
+Liberty			14
+Fort Huachuaca		2
+Saerbeck		19
+Alamedin		1
+Forde			11
+Batuampar		2
+Aransas Pass		1
+Osica de Sus		49
+Popayan			6
+Tubarao			8
+Mittelschontal		2
+San Miguel de Cozumel	4
+Grave			2
+San Martino di Venezze	47
+Luedinghausen		38
+Haifa			508
+Halethorpe		1
+Zolochiv		201
+Arluno			2
+Kohtla-Järve		3
+Hangzhou		51174
+Mixquiahuala de Juarez	11
+Everlange		16
+Rockhampton		4
+Nakhon Pathom		5
+Rock Falls		10
+Herzlake		2
+Maumelle		4
+Pontassieve		6
+Delmar			29
+Mexico City		7439
+Galileia		3
+Byfleet			7
+North Versailles	2
+Gorinchem		8
+Dongguan		25
+Nome			4
+Genga			1
+Lintang			64
+Akasaka			4514
+San Nicolás de los Arroyos	7
+Vilkaviškis		217
+Fisciano		14
+Bridgewater		28
+Bad Schwartau		5
+Saint Anne		4
+Abakan			26
+Whitewater		1
+Spresiano		64
+Bagong Ilog		3
+Auburn			18
+Casper			1
+Parintins		3
+Lima			2328
+Grignasco		1
+Thornhill		504
+Meierskappel		18
+Abilene			3
+Scandicci		1
+Isfahan			1
+Banur			24
+Monzon			1
+Yakoruda		2
+Palmitinho		1
+Caslav			2
+Marano Vicentino	36
+Gävle			40
+Zwickau			10
+Carquefou		11
+Nokomis			1
+Kali Anyar		21
+Kramatorsk		7731
+Windham Center		1
+Romelandia		13
+Sevastopol		1300
+Bangor			7
+La Jolla		70
+Suzhou			19
+Groveport		1
+Bemidji			2
+Dagenham		6
+Dias davila		89
+Union City		2
+Claremore		5
+Chasseneuil-du-Poitou	29
+Santos			20
+Tarm			6
+Berkeley Heights	39
+Cantu			15
+Gatineau		49
+Cortaillod		5
+Abuja			5
+Solothurn		3
+Agigea			201
+Ilford			20
+Deliklikaya		1
+Avellino		6
+Edagawa			6
+Campinas		97
+Frantiskovy Lazne	1
+Ballarat		16
+Cokato			13
+Kuban'			653
+Mayfair			3
+Sobrance		22
+Badalona		2
+Shchëkino		187
+Newport			53
+Lake Saint Louis	114
+Braniewo		39
+Mikkeli			2
+Bronnoysund		1
+Fredericksburg		30
+Hawkesbury		68
+Guarenas		62
+Palisades		2
+Anicuns			6
+Caldas Novas		96
+Kingisepp		81
+Pellendorf		24
+Bircza			3
+San Juan del Río	10
+Williamstown		65
+Zelenogorsk		2
+Evansville		11
+Lam Luk Ka		30
+Fenelton		1
+Navegantes		93
+Benton Harbor		10
+Sirinhaem		1
+Terra Boa		28
+Greenbelt		219
+Ruzindol		5
+Beaufort		3
+Portici			8
+Kenner			19
+Xiamen			737
+Katrineholm		16
+Stonewall		3
+Mulhouse		23
+Tal'menka		3
+Calhoun			2
+Odolena Voda		22
+Oberdorf		1
+Argelato		13
+Shakhty			111
+Itatinga		5
+Santa Gertrudes		1
+Belovo			14
+Canizzano		4
+Petrila			47
+Decorah			1
+Voskresensk		1
+Gillingham		2
+Santa Clara		4051
+Lod			18
+Sidcup			109
+Ellesmere Port		3
+Vallendar		5
+Gowarczow		11
+Hradec Králové		16
+Akersberga		54
+Castelfranco Emilia	14
+Sao Jeronimo		5
+New Gloucester		21
+Pinamar			2
+Berrien Springs		49
+Mount Prospect		2
+Moses Lake		1
+Groningen		3697
+Rohnert Park		157
+Steinbach		2
+Cengkareng		32
+Wellington		81
+Livingston		13
+Schepdaal		1
+New Brunswick		9
+Rubtsovsk		1
+Antelope		10
+Brasstown		2
+Ribeirao Claro		5
+Remscheid		20
+Suwałki			14
+Koszalin		17
+Wiener Neustadt		189
+Galați			11
+Karvina			1
+Hanau			383
+Knittelfeld		43
+Sturt			11
+Zittau			1
+Stezzano		27
+Shanghai		10343
+Venafro			4
+Pushkin			7
+Eggenstein-Leopoldshafen	7
+Saint-Eustache		10
+Foligno			1
+Herfolge		10
+Lajedo			7
+Moorestown Township	13
+Bangkok			6465
+Formentera de Segura	7
+Torrelodones		3
+Taoshan			2
+Oxford			489
+West Bromwich		177
+Viareggio		1
+Bohmenkirch		5
+Duvall			2
+Vallentuna		9
+Krokowa			5
+Gaborone		3
+Harrogate		650
+Novovoronezh		10
+Waller			2
+Mitchell		4
+Iden			8
+Hart			3
+Wallingford		3
+Wallsend		19
+Graham			2
+Fuku			36
+Roisan			1
+Rakitovo		3
+Somers			1
+Dalhart			139
+Assemini		1
+Heusweiler		19
+Luperon			2
+Cuautla			1
+Cifer			1
+Hulin			148
+Indian Trail		7
+Bloomington		113
+Yuen Long San Hui	9
+Saint John		58
+Londrina		222
+Bellevue		2196
+Bielawa			6
+Boryspil		50334
+Grand Prairie		26
+Saint-Herblain		296
+Teresina		480
+Cerreto Guidi		1
+Kol’chugino		23
+Heerhugowaard		18
+Socorro			14
+Lilburn			37
+Medellín		1294
+Winston-Salem		232
+Jojutla			20
+Nelson			64
+Christchurch		134
+Jamaica			2
+Quevauvillers		3
+Porretta Terme		8
+Civil Lines		2
+Cologne			1112
+Berezniki		145
+Jasper			2
+Shrewsbury		40
+Visakhapatnam		138
+Streaky Bay		1
+Dubendorf		20
+Ornskoldsvik		4
+Matosinhos Municipality	35
+Marcq-en-Baroeul	3
+Estoril			5
+Uhersky Brod		11
+Mason			4
+Guarulhos		50
+Bohemia			2
+Sherwood Park		9
+Dimitrovgrad		3
+Draper			164
+Hanna			2
+Kolsas			1
+Dezhou			14
+Middelburg		28
+Strand			2
+Huyen Chau Thanh	13
+Angers			117
+Gostyn			123
+Panama City		808
+Hluboka nad Vltavou	9
+Rode			4
+Peabody			375
+Novosibirsk		3804
+Słupsk			41
+Benevento		6
+Uznach			23
+Thanh Khe		2
+Krzywcza		1
+Woodstock		10
+IJmuiden		1
+Nettetal		17
+Airdrie			8
+Lawrence		132
+Yantai			7
+Molina de Segura	1
+Coronel Fabriciano	36
+Winterberg		7
+Bradford		13
+Gradacac		28
+Gyongyos		3
+Belogorodka		1
+Highland		37
+Peris			4
+Botany			172
+Gablitz			1
+Adamow			11
+Kamloops		186
+Viana do Castelo	1
+Dongying		2
+Ongole			117
+Silver City		3
+Regensdorf		32
+Goodlettsville		1669
+Tagil			1
+Bhavnagar		5
+Schwedt (Oder)		4
+Jequié			1
+Lake Orion		1
+Dracena			28
+Stellenbosch		35
+Cocal			1076
+Geneva			3369
+Piešťany		270
+Merrimac		28
+Wells			3
+Gyeonggi-do		1
+Sales Oliveira		9
+Kuching			8
+Pardubice		32
+Francitas		33
+Santo Antonio da Alegria	9
+Sofrino			11
+Lázaro Cárdenas		36
+Pribor			675
+Oberhausen		99
+Susice			9
+Novato			421
+Melville		52
+Park Forest		1
+Hornsby			3
+Campeche		4
+Zavodouspenskoye	110
+Casole Bruzio		2
+Vernon Hills		16409
+La Ligua		1
+The Hague		252
+Venda do Pinheiro	1
+New Hyde Park		2
+Koga			1
+Târgovişte		5
+Airoli			7
+Vlasikha		34
+Arkel			45
+Calama			61
+Novomichurinsk		1
+Toledo			19666
+Cuauhtemoc		243
+Liverpool		307
+Tavarikere		1
+Trivero			8
+Itau de Minas		4
+Scottsdale		35831
+Torrent			11
+Boa Nova		3
+Zandvoort		5
+Merlo			39
+Patiala			154
+Ratzeburg		16
+Waterloo		922
+Skoczow			11
+Brea			4605
+Poplar			1
+Habovka			7
+Dittmer			1
+Edmore			1
+Brescia			936
+Barra Velha		28
+Kappel			3
+Sydenham		1
+Dunakeszi		479
+Tepic			1
+Târgu Jiu		1
+Hercules		1
+Frisco			966
+Deventer		2
+Saint Clair Shores	12
+Rostov-on-Don		6534
+Casavatore		1
+Hauppauge		2
+Aulnay-sous-Bois	7
+Strasbourg		10441
+Sof'ino			61
+Sales			23
+Ramla			6
+Chippewa Falls		2
+Araguaína		8
+Donetsk			16143
+Cherkasy		48738
+Mineralnye Vody		21
+Hailey			8
+Rockland		3
+Wasser			2
+Basingstoke		9
+Xiaolan			15
+Pesqueira		5
+Fair Bluff		2
+Skovlunde		15
+Irwin			6
+Burbank			628
+Ploieşti		174
+Monforte de Lemos	1
+Ulan-Ude		30
+Rancho Santa Margarita	309
+Buritama		6
+Parelhas		1
+Jember			6
+Presidente Derqui	123
+Quezon City		198
+McLaren Vale		2
+Sousse			1
+Sao Jose do Rio Preto	178
+Murom			18
+Lyon			1002
+Golden Bay-Singleton	2
+Södertälje		1
+Helden			8
+Saratoga Springs	38
+Semilukskiye Vyselki	2
+Nir Hen			6
+Bielsko-Biala		81
+Babarpur		1
+Amarante		2
+Getafe			60
+Siguatepeque		13
+Hyattsville		35
+Howrah			52
+Fujinomiya		2
+Montrouge		14
+North Brunswick		4
+Anzing			75
+Magnitogorsk		542
+Chekhov			288
+Negotino		23
+Clarks Summit		207
+Považská Bystrica	77
+Mezhdurechensk		9
+Norcross		8392
+Pushkino		280
+Wolsztyn		9
+Caselle Torinese	1
+Oshakati		43
+Balbey			36
+Vittoria		1
+Olesno			8
+Oak Ridge		30
+Krasnokamensk		1
+Ellscheid		5
+Kingsford		1
+Piazza Armerina		3
+Antwerp			456
+Ruvo di Puglia		6
+Damansara		41
+Babice			1
+Kryvyy Rih		260
+Anvaing			10
+Elk Grove Village	2918
+Phoenix			5728
+Tlaquepaque		159
+Irving			244
+Edmond			3565
+Sondrio			115
+Rho			234
+Barauda			4
+Spring Hill		2
+L’Aquila		2
+Harleton		1
+Greater Kailash		4
+Howell			1
+Roaring River		1
+New Baltimore		2
+La Garenne-Colombes	240
+Łódź			4019
+Westbury		104
+Durg			5
+Valbonne		1
+Hadid			1
+Santo Domingo		1627
+Porto Viro		9
+Verden an der Aller	61
+New Rochelle		25
+Pipestone		2
+Ranaghat		9
+Terrassa		884
+Gustavsberg		3
+Ezequiel Montes		6
+Sutton Coldfield	52
+Valka			4
+Wrexham			1
+Land O' Lakes		6
+Bansko			29
+Newark			6034
+Birtinya		2
+Mayrhofen		82
+Klampenborg		34
+Posad			26
+Belle Chasse		3
+Patu			6
+Rajshahi		11
+Paty			17
+Sanem			2
+Viadana			33
+Mytishchi		96
+Soerendonk		159
+Hranice			9
+Vandalia		1
+Sile			1
+Gmina Połaniec		11
+Palmerston North	19
+Clontarf		4
+Tambov			62
+Mohali			130
+Vellore			6
+Mohala			37
+Marseille		768
+Villa Mercedes		8
+Boulogne-Billancourt	1644
+Chorzów			112
+Caira			1
+Cairo			766
+Trbovlje		17
+Araxá			5
+Ciudad Delicias		1
+Roseto degli Abruzzi	1
+Milan			23255
+Nijmegen		85
+Pannipitiya		125
+Gretna			449
+Bergenfield		33
+Coleshill		78
+Giebelstadt		1
+Apizaco			2
+Guaruja			1
+l'ubotin		2
+Fort Mill		6
+Lansdale		2
+Voznesenka		329
+Noisy-le-Grand		148
+Grobenzell		1
+Rotherham		3
+Ricany			9
+Emeryville		7440
+Sardara			1
+Altavilla Silentina	2
+Beemer			38
+Watertown		18
+Govindpura		26
+Cuautitlán Izcalli	49
+Hollister		1
+Vergato			3
+Schnaittach		12
+Krailling		12
+Nixon			1
+Kargopol'		11
+Clinton			123
+Pekauman		97
+Carlton North		56
+Sao Gabriel		1
+Seregno			4
+Paradip			1
+Zhangye			15
+West Richland		1
+João Pessoa		54
+Halle			242
+Pingtung City		3
+East Setauket		67
+Prescott Valley		71
+Olimpia			5
+Albury			1248
+Mesa			42
+Adapazarı		2
+Beroun			1
+Artarmon		12
+Malappuram		219
+Sao Joao de Meriti	174
+Bom Jesus do Galho	2
+Waldachtal		4
+Owosso			8
+Detroit Lakes		4
+Canberra		112
+Suitland		2
+Akita			5
+Omihachiman		514
+Makati City		85
+Haryana			4
+Providence		1846
+Swidwin			1
+Tuxtla Gutiérrez	226
+Vigonza			29
+Privolzhsk		1
+Cruz del Eje		13
+Beloozërskiy		1
+Gorzyczki		6
+Tashkent		145
+Mariefred		5
+Tecamac de Felipe Villanueva	40
+El Segundo		209
+Cochran			6
+Grand Rapids		2796
+Sarre			2
+Arapongas		24
+Moers			5
+Beauzelle		1
+Saevsjoe		7
+Los Altos		58
+Hixson			1
+Cedar Knolls		7047
+Frederick		60
+Rockville Centre	653
+Rezé			22
+Pageland		5
+Pleasant Grove		395
+Toowoomba		1
+Trenton			293
+Puchong Batu Dua Belas	2
+Kurovskoye		1
+Kuesnacht		6
+Roselands		5
+Napajedla		5
+Levelland		4
+Shippensburg		4
+Copenhagen		1773
+Kasava			51
+Graested		23
+Sassuolo		3
+Bad Gastein		53
+Sete Lagoas		13
+Poços de Caldas		29
+Grodzisk Wielkopolski	9
+Begues			4
+Timoteo			74
+Novara			8
+Morbegno		11
+Pervomayskiy		2
+Dronten			10854
+Pembroke		558
+Aomori			1
+Ubaporanga		12
+Onex			5
+Suva			13
+Aytos			2
+Havant			6
+Neuenhagen		176
+Gloucester		2290
+Salvela			1
+Cachoeira Dourada	4
+Washington		46178
+Highett			26
+Rogliano		21
+Downingtown		28
+Opatow			58
+South Point		25
+Tokushima		2
+Bello			4
+Nowy Sącz		19
+Lebach			7
+Pančevo			21
+Horsham Township	28
+Sydney			6579
+Canhotinho		4
+Gurgaon			542
+Kings Beach		69
+Chimbote		13
+Garza Garcia		1316
+Torroella de Montgri	10
+Bryans Road		43
+Siechnice		65
+La Habra		2
+Westby			1
+Ditzingen		1
+Napkor			38
+Komárom			1
+Pullach im Isartal	1
+Le Chesnay		33
+Wickham			4
+Ybbsitz			2
+Lasalle			10
+Cheboksary		1125
+Baruun-Urt		5
+Friedrichshafen		98
+Ponta Delgada		69
+Luzice			3
+Potton			1
+Strumica		8
+Gamagori		41
+Cassia			4
+Carlisle		38
+Wollongong		4
+Piovene Rocchette	1941
+Sulzbach am Main	14
+New Martinsville	1
+Fullerton		1
+Zdunska Wola		3
+Pristina		58
+Muscat			23
+Montanha		38
+Barroso			2
+Otacilio Costa		5
+Armavir			7
+Lakemba			5
+Civitanova Marche	108
+Wood Dale		15
+Michle			1
+Strovolos		4
+Mohawk			1
+Helsingborg		81
+Nagyecsed		1
+Apuarema		16
+Merrill			4
+Ban Chan		8
+Inta			1
+Dollar			5
+Ruy Barbosa		1
+Staraya Kupavna		1
+Enebyberg		5
+Longchamps		3
+Mainpuri		1
+Gara Elin Pelin		11
+Lidzbark Warmiński	11
+Moszczenica		3
+Satu Mare		2
+Sao Lourenco do Sul	5
+Banjarkemantren		1
+Lincolnshire		20
+Pedro Leopoldo		4
+Heidelberg		427
+Georgetown		309
+Lemont			5
+Norsborg		2
+Oakton			4
+Pomigliano d'Arco	1
+Jakarta			3977
+Mairena del Aljarafe	6
+Hillerød		181
+Wattwiller		3
+Oak Forest		1
+Cheras			19
+Vaerlose		1
+Debrzno Wies		6
+Batu Kawa		16
+Yahotyn			1028
+Hlinsko			3
+Langewiesen		19
+Oaktown			2
+Rzeszów			653
+Masaya			2
+Doubleview		3
+Thornbury		2
+Shenzhen		3009
+Manyas			139
+Xi'an			121
+Celaya			8
+Kecapi			8
+Vojnuv Mestec		10
+Andalusia		2
+Agropoli		2
+Peabiru			27
+Mulund West		46
+Sidon			4
+Brondby Strand		14
+Walnut Creek		24
+Nyköping		5
+Warrensville		1
+Zutphen			7
+San Giorgio a Cremano	1
+Stary Jicin		15
+Maryland Heights	4
+Laupheim		4
+San Marcos		62
+Soave			6
+Douala			2
+Cazzano Sant'Andrea	8
+Talcahuano		4
+Milpitas		19
+Beek			45
+Tirumala - Tirupati	30
+Lubkow			2
+Merrillville		1
+Hemel Hempstead		310
+Silistra		14
+Santiago de Cali	230
+Kotturpuram		4
+Dolni Bojanovice	8
+Resistencia		5
+Engenheiro Beltrao	6
+Kumertau		6
+Lisichansk		284
+Itaberaba		11
+Sharifpur		8
+Uozu			6
+Dehylov			61
+Griesheim		2
+Boryslav		40
+Cameron			2
+Coazze			5
+Bulandshahr		4
+Caconde			2
+Chemnitz		84
+Glassboro		9
+Lugano			17
+Dallas			164578
+Conselheiro Pena	5
+Meppel			2082
+Caroya			2
+Limoges			15
+Cranston		30
+Sapopema		7
+Torquay			5
+Guapimirim		1
+Mimon			16
+Clymer			1
+Frauenfeld		4
+Nagano			21
+Dmitrov			61
+Stocksund		1
+El Palomar		46
+Golden			22
+Southfield		3100
+Ottestad		21
+Bubenreuth		30
+Nyborg			465
+Rudna Mala		1
+Agricola Oriental Norte	149
+Matelandia		4
+Saint-Ouen		4177
+Alingsas		36
+Massy			8
+Nurtingen		6
+Le Plessis-Luzarches	3
+Savyon			2
+Suncheon		1208
+Walton on the Hill	1
+Paranaque City		11
+Andres			3
+Balice			3
+Rignano sull'Arno	108
+Narre Warren		7
+Patehan			13
+Kaevlinge		388
+Bergstrasse		1
+Derio			6
+Miass			17
+Kolomna			176
+Monghidoro		1
+Arnold			5
+Murowana Goslina	2
+Tejgaon			3
+Rensselaer		2
+Amsterdam		157040
+Ouro Preto		6
+Drogheda		51
+Tupelo			3
+Crowley			311
+Gonzalez Catan		5
+Aligarh			1
+Anna Nagar		6
+Kinshasa		4
+Shelby			1
+Fanling			2
+Caulfield South		1
+Qualiano		4
+Bajos de Haina		20
+Fafe			8
+Mińsk Mazowiecki	1
+Muszyna			2
+El Paso			31
+Santa Maria		2
+Abbadia San Salvatore	41
+Yuma			1
+Atlanta			134231
+Villacidro		4
+Easton			33
+Judenburg		8
+Subingen		21
+Battle Mountain		2
+Lakeland		3
+Gravataí		44
+Walthamstow		29
+Sahibabad		3
+Shymkent		8
+Châtenay-Malabry	67
+Bialka			2
+Agrigento		5
+Kanpur			21
+Volketswil		2
+Atorp			1
+Cacem			14
+Esbly			7
+Capaci			41
+Parabita		2
+Ephrata			2
+Southport		243
+Totowa			3
+Camaragibe		33
+Pietrowice Wielkie	1
+Albertslund Municipality	22
+Calais			15
+Gameleira		37
+Burlington		5010
+Petah Tikwah		45
+Umeå			62
+Lage			56
+Thimi			3
+Kamnik			9
+Port Townsend		52
+Greenvale		14
+Guangzhou		11314
+Pottstown		2
+Wavell Heights		1
+Tyreso Strand		18
+Barsbuettel		2
+Banov			6
+Morges			7
+Tabasco			3
+Stourbridge		1
+Posto Fiscal Rolim de Moura	10
+Rabat			3
+La Cisterna		1
+Ras al-Khaimah		5
+Sao Joaquim de Bicas	1
+Manipala		9
+Lomas del Mirador	5
+Slangerup		5
+Andorra la Vella	64
+Jinhua			1
+Anand			49
+Hull			529
+Chaoyang		4803
+Kinna			5
+Sucua			23
+Burea			1
+Moelingen		16
+Ribeirao Pires		17
+Lansing			25735
+Juazeiro do Norte	25
+Rotenburg		23
+Frattaminore		10
+Tjele			1
+Bautzen			32
+Neuquén			25
+Remstadt		2
+Rosenheim		13
+Needham			30
+Nossa Senhora do Socorro	1
+Vise			10
+Cacoal			10
+Senillosa		6
+Drummondville		8
+Ebikon			1
+Ostend			1
+Orlando			3339
+Rahova			4
+De Meern		76
+Patos			117
+Tupi Paulista		2
+Montreal		46147
+Thief River Falls	76
+King of Prussia		14590
+Rockaway		1
+Seabra			1
+Surry Hills		58
+Bath			12
+Sao Goncalo do Amarante	12
+Roseville		14
+Burtonsville		4
+Hermosillo		669
+Pszczew			1
+Gosnells		13
+Stoke-on-Trent		371
+Vereeniging		2
+Herndon			8520
+Pliening		6
+Berdychiv		177
+Lazarevac		3
+Badarpur		6
+Pegadungan		8
+Bagnaia			1
+Dobrich			78
+Steinkjer		19
+Zacatecas City		6
+Therwil			7
+St Louis		25254
+Torzhok			1
+Vasai			27
+Berazategui		92
+Misterbianco		3
+Alges			9
+Palam			1
+Jelenca			6
+Cercado			36
+Glis			2
+Houma			538
+Carrollton		69672
+Campo Grande		87
+Tvarožná		79
+Arkadelphia		1
+Alpharetta		2286
+Glen Mills		1
+Riverton		24
+Muralto			50
+Landshut		2
+Bhagrana		1
+Bochum			426
+Bełchatów		107
+Trim			4
+Ede			147
+Vassouras		1
+Euclid			8
+Hamm			4
+Mentor			1
+Garifa			7
+Covington		6
+Bremervoerde		35
+Harpenden		3
+Erzincan		39
+Lidkoping		1
+Pecatonica		1
+Worli			48
+Hartford		47
+Lenexa			125
+Urbana			405
+Maisons-Alfort		10
+Hooksett		64
+Klagenfurt		64
+Walheim			7
+Rastede			46
+Dziergowice		4
+Wodzisław Śląski	6
+Kitchener		438
+Severodvinsk		159
+Manchester Center	511
+Brockport		3
+Seville			232
+Los Polvorines		19
+Paledzie		24
+Azov			8
+Knottingley		3
+Storen			1
+Boynton Beach		17
+Mnichovo Hradiště	2
+Star Lake		2
+Brattleboro		4
+Split			4
+Laredo			6
+Le Perreux-sur-Marne	3
+Toppenish		11
+Fergus Falls		2
+Marsiling		24
+Augsburg		391
+Děčín			51
+Omsk			2022
+Tiller			25
+Ukhta			1
+Commerce		2
+Stone			10
+Bowral			1
+Castrop-Rauxel		40
+Ingarp			12
+Heiloo			5
+Nowy Dwor Mazowiecki	1269
+Esparreguera		39
+Steelville		1
+Boulder City		1
+Cabo de Santo Agostinho	34
+Leuven			191
+Baku			933
+North Bay		35
+Tirol			1
+San Giovanni		1
+Stella Cilento		14
+Huntington		10
+Ambodivona		7
+Adelaide		64
+Oakleigh East		1
+Yao			12
+Canada de Gomez		4
+Valga			8
+Norwell			13
+Kwekwe			18
+Lubin			13
+Cholula			1
+Los Sauces		54
+Ota			2
+Saint-Denis		1069
+Rio nell'Elba		2
+Kurgan			111
+Legnaro			77
+Junín			1
+Petropavlovsk-Kamchatsky	22
+Helmetta		7
+Kaiserslautern		74
+Chireno			6
+Slidell			3
+Osmaniye		50
+Zeewolde		9
+Roseau			2
+Promna			6
+Tenafly			31
+Svitavy			1
+Ringwood East		3
+Shelbyville		2
+Urucania		2
+Maghar			3
+Belo Horizonte		1678
+Rocklin			9
+Jaipur			226
+Temuco			12
+Colonia Madero (Madero)	18
+Blountville		1
+Basaksehir		2
+Legazpi			26
+Torrance		224
+Tuchola			15
+Starnberg		27
+Yanderra		5
+Hartsdale		26
+Legnica			27
+Arroio do Meio		1
+Ramenskoye		191
+Langley			20
+Villa Urquiza		11
+Guayaquil		1687
+Merefa			4
+Cluj-Napoca		150
+Rugby			444
+Pietrasanta		4
+Fuenlabrada		1
+Ciechocinek		8
+The Valley		6
+Venado Tuerto		13
+Boonville		7
+Zuers			2
+Thornton Heath		2
+Kraainem		12
+Bierun			8
+Sjoebo			8
+Ramat HaSharon		55
+Yildirim		8
+Torrebelvicino		1
+Samut Sakhon		7
+Sandefjord		3
+Wlodawa			6
+South Gate		1
+Santander		38
+Itaperuna		15
+Rosate			5
+Kent			21
+Severn			1
+Naxxar			14
+Smila			4213
+Seaton			49
+Randburg		151
+Merchtem		47
+Tikob			1
+Flores			13
+Arlington		330
+Pucallpa		20
+Poronin			2
+Jablonec nad Nisou	5
+Forino			2
+Palhoca			43
+Frydek-Mistek		10
+Alejandro Bass		4
+Manari			5
+Jefferson City		43
+Koloa			1
+Voronezh		1178
+Veghel			13
+Neustadt bei Coburg	28
+Largo			3
+Oyten			7
+Kranj			37
+Los Banos		2
+Alliance		8
+Northolt		1
+Orland Park		30
+Tomball			1
+Jacareí			8
+Folsom			37
+Xalapa			58
+Oppegard		7
+Bilina			1
+Serino			3
+Les Ulis		4
+Vaterstetten		12
+Saeter			5
+Birigui			79
+Dolna			1
+La Virginia		1
+Juilles			4
+Saransk			437
+Dayton			347
+Bernsdorf		1
+Kočani			52
+Stanislav		359
+Pouso Alegre		19
+Hebei			163
+Asamblea		39
+Loogootee		1
+Cerreto d'Esi		2
+Nadym			13
+Selcuklu		18
+Bhiwandi		2
+Warminster		1
+Velesovice		3
+Odintsovo		1778
+Poznan			1886
+Leysin			4
+Daly City		7
+Craiova			289
+Orastie			4
+Dengkil			109
+Tours			2
+Písek			1
+Quevedo			3
+Kalyani			8
+Klin			12
+Llanera			42
+Sorbolo			49
+Westbeemster		2
+Nusttal			68
+Albert Park		61
+Saint-Theodore-d'Acton	1
+Esenyurt		10
+Meise			1
+St. Gallen		34
+East Haven		1
+Jurong East New Town	1
+Amara			57
+Camberwell		39
+Halden			3
+Picui			1
+Palomonte		2
+Sharjah			48
+Chita			17
+Nakhodka		16
+Braintree		114
+Lancing			5
+Maturín			9
+Burns			91
+Extrema			3
+Queimados		4
+Marshall		177
+Kani			3
+Bollnas			4
+Barbalha		39
+Imus			15
+Cockeysville		1
+Oregon City		7
+Hedehusene		3
+Huancayo		7
+Krasna Lipa		69
+Doubravy		2
+Venice			67
+La Habana		361
+Carrington		1
+Great Bend		1
+Badacsonytomaj		53
+Colón			9
+Villepinte		11
+Valencia		1502
+Piquete			3
+Lelekovice		159
+Montevideo		826
+Dendermonde		2
+Stargard		18
+Sitio Pouso Alto	2
+The Gap			3
+Bucaramanga		683
+Comalcalco		21
+Kramfors		2
+Muskegon		1
+Plano			6103
+Kanazawa		1
+Mussoorie		38
+Tonganoxie		3
+Salvador		1329
+Mar del Plata		69
+Barcelona		65255
+Saarbrücken		724
+Latrobe			2
+Mondragón		2
+Carlstadt		23
+Hampton			22
+Ilhota			1
+Camacari		55
+Dedham			7
+Naaldwijk		129
+Reno			1411
+Waterbury		1
+Carlton			5
+Ransart			2
+Williston		4
+Vacaria			20
+Toorak			1
+Grosseto		3
+Collegno		14
+Graford			1
+Kandava			4
+Novoazovs'k		350
+Changchun		68
+Kraskovo		24
+Torre del Greco		97
+Veliky Novgorod		127
+Viseu			15
+Novorossiysk		83
+Szigethalom		26
+Kumanovo		196
+Cheadle			15
+Newcastle		1
+Lübeck			149
+Bolpur			5
+Estancia Velha		11
+Saratoga		1
+Ridgeland		13
+Guarapuava		1
+Hniezdne		63
+Pathankot		1
+Ischia			20
+Wonji			5
+Leeuwarden		2
+Ružomberok		3
+Troy			160
+Elblag			5
+London			61626
+San Felice		1
+Burdur			2
+Ercolano		52
+Hennef			25
+Pavlovo			1
+Auckland		761
+Munchsmunster		25
+Huixquilucan		14
+Neckarsulm		11
+Bollate			8
+Krompachy		36
+Swansea			17
+Magnesia ad Sipylum	13
+Courcouronnes		4
+Storebo			20
+Codlea			2
+North Richland Hills	2080
+Hässleholm		15
+Buetschwil		52
+Pierbach		10
+Dubna			117
+Penza			88
+Troyes			1
+Bucyrus			2
+Caripito		1
+Vacratot		35
+Froendenberg		49
+Liestal			3
+Fort Mitchell		1
+Settle			1
+Chania			7
+Para de Minas		36
+Staten Island		4
+Bang Khlo		31
+Dolni Bela		1
+Ocsa			124
+Broniszewice		2
+Peribonka		2
+Toruń			216
+Middletown		652
+Dobele			10
+Toowong			1
+Avellaneda		47
+Poggiomarino		5
+General Alvear		7
+Pincher Creek		5
+Islandia		1
+Billingshurst		7
+Sinaia			18
+Carrizozo		4
+Marituba		17
+Macclesfield		10
+Bishkek			185
+Arco			1
+Neckargemund		29
+Żywiec			453
+Varel			22
+Oftering		792
+Artesia			2
+Coeur d'Alene		1
+Clichy			25
+Alcobendas		2
+Canterbury		23
+Osage			2
+Hadsten			4
+Stockton		4837
+Westmount		6
+Sint-Truiden		2
+Troyan Municipality	50
+Morelos			18
+Sodra Forstaden		1023
+Romford			6
+Loja			9
+Vodokrty		8
+Itabira			106
+Braga			11
+Villamediana de Iregua	1
+Benitachell		1
+Trindade		8
+Hajek			1
+Springfield		446
+Karlskrona		71
+Palmares		11
+Courtenay		2
+Limbach-Oberfrohna	3
+Schwäbisch Hall		1
+Sieci			3
+Sanok			6
+Ikeja			16
+Consett			3
+Etimesgut		10
+Kdyne			8
+Omaha			1719
+Gyal			20
+Vaduz			1
+Tuntum			28
+Yorktown		1
+Houten			24
+Banting			1
+Stephenville		4
+Vadum			600
+El Dorado		1
+Olaine			2
+Tin Can Bay		11
+Lyngby			14
+Évreux			2
+Royal Oak		1
+Toongabbie West		40
+Linthicum Heights	14
+Matsusaka		1
+Alachua			4
+Bruneck			1
+Villafranca di Verona	119
+Caballito		25
+Vojens			1
+Ostrowiec Świętokrzyski	2
+Ettingen		1
+Wayne			16279
+Laa an der Thaya	1
+Waymart			2
+Gurupi			12
+Asahi			5
+Sapiranga		74
+Vantaa			6
+Fremont			16421
+Skopje			371
+Jistebnik		4
+Roxie			1
+Yellowknife		6
+Viradouro		10
+Toluca			64
+Holliston		8
+Schwetzingen		4
+Viagrande		1
+Virginia Beach		239
+Mannheim		275
+Morro da Fumaca		2
+Mukwonago		1
+Southend-on-Sea		3
+Beaumont		28
+Sivas			3
+Orenburg		36
+Luque			1
+Vilnius			3906
+Kehl			2
+Saint-Maurice		8
+Paesana			8
+A Coruña		56
+Valley Center		117
+Fugen			1
+Gavi			2
+Coquitlam		81
+Siret			21
+Unai			2
+Paripiranga		47
+Zdolbuniv		199
+Morganville		1
+Bad Essen		19
+Hawthorn		5
+Coral Gables		1868
+Bijeljina		16
+Galloway		242
+Padua			50
+Whites Creek		5
+Park City		1
+Schwanewede		10
+Montes Claros		83
+Overland Park		14367
+Muriaé			5
+Rygge			20
+Burton-on-Trent		1
+Uusikaupunki		1
+Rosheim			6
+Falköping		12
+Clark			1
+Clare			1
+Łomża			5
+Rancho Cordova		90
+Centenario do Sul	1
+Pumpungan		1
+Kirov			40
+Yiwu			13
+Curicó			60
+Quarry Bay		327
+Kastrup			3
+Mount Pleasant		15
+Werchter		84
+Tlumacov		182
+Érd			8
+Benetusser		5
+Tábor			15
+Coro			13
+Cork			12
+Fivizzano		28
+Chernogolovka		2
+Murrieta		3
+Namakkal		1
+Saint-Chamond		63
+Ponte San Giovanni	1
+Mozhga			6
+Castelminio		8
+Vel'ke Ul'any		1
+Chojnice		59
+Zachary			60
+Otrokovice		22
+Guiyang			212
+Nakło nad Notecią	8
+Woburn			80
+Bussum			110
+Surubim			10
+Woking			8
+Capitao Poco		33
+Bowling Green		12
+Capaccio		48
+Ribeira do Amparo	19
+Owatonna		12
+Krauschwitz		31
+Maidstone		477
+West Des Moines		32
+Polevskoy		1
+Belgrave		2
+Tetecala		3
+Pewaukee		1
+Cranberry Lake		2
+Buccinasco		43
+Putignano		1
+Correggio		28
+Valle Hermoso		1
+Yalta			7
+Alzira			1
+Zagreb			881
+Herzogenrath		23
+Covasna			2
+Carangola		67
+Soka			2
+Karlovo			2
+Broughton		11
+Santa Luzia		108
+Chattanooga		348
+Tomazina		1
+Center Valley		2
+Bellefonte		1
+Petaluma		43
+Sainte-Clotilde		17
+Ourinhos		14
+Erde			2
+Busto Arsizio		57
+Casale Monferrato	6
+Diemen			4
+Lys'va			1
+Santo Tomas		4
+Toyonaka		17
+Hrubieszów		4
+Wildeshausen		6
+Plaisir			3
+Contagem		445
+Silver Spring		536
+Pagani			25
+Ibarra			25
+Westlake Village	1
+Oakleigh		5
+Redfern			2
+Sapogovo		3
+Balabanovo		6
+Bad Homburg		9085
+Pinole			5
+Chemashur		250
+Leyland			2
+Fort Wayne		394
+Świdnica		3
+Quixere			6
+Wilsonville		2
+Livorno			27
+Allston			54
+Anapu			2
+Cukurova		10
+Dormagen		1
+Kazanlak		2
+Plana			4
+Needham Heights		285
+Bag			1
+Chandannagar		7
+Monmouth Junction	1022
+Taipei			4176
+Ostrov			2
+Niederkassel		6
+Alzey			3
+Stoneham		13
+Toms River		52
+Zabrze			199
+Caxambu			1
+Campo Largo		3
+Czarna Białostocka	26
+Heroica Caborca		36
+Domazlice		1
+Kazan’			791
+Granville		1
+Olawa			5
+Floridablanca		13
+Ome			677
+Coesfeld		5
+Feira de Santana	149
+Senhora da Hora		2
+Ridgefield		2
+Melipilla		6
+Guabiruba		1
+Bujkovac		6
+Leitring		1
+Catoira			1
+East Durham		9
+Leidschendam		1
+Bridlington		12
+Pantin			175
+Taxerhof Lake		87
+Wielka Wies		5
+La Rioja		127
+Linhai			13
+Pullman			9
+Claypole		4
+Timur			36
+Alba Iulia		4
+Asnieres-sur-Seine	59
+Szentgotthard		22
+Falun			6
+Goes			8
+Salerno			62
+Gilbert			621
+Nagercoil		2
+Emmen			3
+Veikkola		38
+Tutayev			5
+Caranzalem		2
+Sveg			4
+Petrolina		181
+Pori			1
+Nagasaki		95
+Patos de Minas		9
+Betim			229
+Alcalá de Henares	236
+Aguas de Chapeco	50
+Rocky Mount		40
+Maple Valley		10
+Jedovnice		2
+Spijkenisse		196
+Icheon-si		9
+Reggio Calabria		4
+Kaduwela		1
+Protvino		43
+Uriangato		8
+Rockwall		228
+Balassagyarmat		3
+Cheung Sha Wan		3317
+Carterton		2
+Cervena Recice		7
+Rameshki		4
+Red Deer		2
+Kunzell			7
+Budva			4
+Floresta		7
+Memmingerberg		2
+Roskilde		76
+Arab			3
+Maineville		1661
+Coihaique		1
+Arak			1
+Luze			2
+Guildford		1
+Bhubaneswar		68
+Czchow			27
+Dordrecht		53
+Goianapolis		2
+Gimpo-si		2
+Redcar			1
+Taraz			2
+Lucerne			27
+Ainsworth		6
+Lebedinovka		2
+Zawoja			4
+Calderara di Reno	39
+Korosten		201
+Crato			78
+Göppingen		9
+Makow Mazowiecki	2
+Jesenice		20
+Beira			30
+Cornelia		3
+Puettlingen		2
+Uccle			1
+Pellenberg		1
+Adamantina		1
+Karben			20
+Arangelovac		1
+Cesana Torinese		1
+Caserta			3
+Binyamina		408
+Hill			4
+Carnaubal		54
+Godech			13
+La Magdeleine		6
+Henderson		462
+Porto Velho		72
+Darra			1
+Alvorada		3
+Tulsa			1998
+La Plata		612
+Ingolstadt		109
+Sierakow		5
+Granges			5
+Catford			1
+Slipi			1
+Srinagar		2
+Slavonski Brod		2
+Morgantown		1
+Ustka			34
+Achinsk			43
+Appenweier		55
+Romanshorn		2
+Deitingen		11
+Dublin			354216
+Oakville		52
+Nieuw-Vennep		184
+Svishtov		24
+Monaca			6
+Kežmarok		1
+Guarapari		51
+Keene			265
+Pekanbaru		31
+Talmaciu		2
+Minneapolis		735
+Kocasinan		5
+Marion			11
+Sosnovyy Bor		18
+Shenzhou		1
+Knoxville		62
+Moab			2
+Newville		2
+Mazatlán		86
+Mataró			42
+Valu lui Traian		2
+Czerwiensk		16
+Phoenixville		1
+South Portland		18
+Piracicaba		7
+Chernivtsi		4734
+Pindorama		6
+Shellsburg		1
+Deville-les-Rouen	5
+Dany			2
+Niğde			1
+Sao Jose de Ribamar	3
+Río Gallegos		1
+Le Kremlin-Bicetre	1
+Klein Vielen		3
+Palmira			2
+Anyang-si		2
+Ypres			12
+Palmiry			24
+Ma`agan Mikha'el	1
+Metamorfosi		10
+Sidney			1
+Grekhovo		17
+Clay			12
+Mambore			4
+Shoham			7
+Schaumburg		825
+Lahore			233
+Lyuban'			4
+Nandambakkam		4
+Chropyne		1
+Juelich			57
+Wendell			4
+Farnborough		2
+Cape Coral		3
+Trebon			1
+Kayseri			49
+Cáceres			1
+Casina			7
+Princeton		130
+Épalinges		9
+Tremblay-en-France	1
+Casino			5
+Tórshavn		4
+Ytterby			4
+Zelhem			2
+Stockholm		4048
+Palmeira das Missoes	5
+Velke Zernoseky		15
+Darmstadt		308
+Zabreh			6
+Hulst			1
+Harvest			7
+Jezainville		15
+Starachowice		1
+Leverano		7
+West Fargo		1
+Repki			2
+Palmyra			2
+Rehlingen-Siersburg	1
+Cedar Crest		1
+Horsens			90
+Casalmaggiore		6
+Bismarck		31
+Landsberg		258
+Port Moresby		31
+Taverny			12
+Ramallah		78
+San Nicola		3
+Zeebrugge		7
+Wuhan			333
+Nova Esperanca		6
+Hackney			12
+Fort Washington		6
+Zielonka		8
+Pacajus			4
+Norderstedt		252
+Ghatkopar		1
+Nancy			1
+Česká Lípa		13
+Manzini			54
+Simrishamn		2
+Clarkston		61
+Hucknall Torkard	1
+Chiautempan		2
+Furtwangen im Schwarzwald	12
+Mazor			8
+Schwenningen		3
+Yokohama		272
+Isleworth		4
+Terneuzen		18
+Ghazipur		5
+Albany			186
+Victoria Park		61
+Sankt Augustin		3
+Karlskoga		5
+Bremen			451
+Woolwich		14
+Steinfurt		3
+Sallisaw		2
+Saint-Constant		1
+Ipiales			5
+Koscierzyna		1
+Oryol			15
+Cachoeira do Sul	7
+Franklin Grove		4
+Ljusdal			18
+Brandwica		3
+Jeddah			99
+Colina			10
+Cayenne			9
+Khlong Yai		1
+Naro-Fominsk		205
+Erba			6
+Nanping			2
+Huatulco		3
+Taquari			34
+Køge			43
+Dzerzhinskiy		29
+Nuevo Casas Grandes	8
+Alata			5
+Chiang Mai		375
+Verkhnyaya Pyshma	94
+Ugento			1
+Chelles			3
+Guli			1
+Vyškov			31
+Model Town		2
+Palaiseau		21
+Macquarie Park		9
+Beachwood		8
+Riverview		2
+Baldwin Park		3
+Muncie			4
+Burke			52
+Merritt			1
+Seoul			5274
+Casselberry		21
+Freeland		2
+Seguin			2
+Greve			3
+Lastrup			2
+Benkovce		10
+Wurzburg		97
+David			4
+Magdeburg		108
+Larchant		1
+Davis			51
+Banfield		3
+Alvin			1
+Baru			3
+Paterek			5
+Bramsche		2
+Slatina			1
+Enid			1
+Bari			40
+Odorheiu Secuiesc	16
+Laas			3
+Rancho Cucamonga	9
+Ostrów Wielkopolski	2
+Waghausel		5
+Foxborough		201
+Legionowo		33
+Zglobice		18
+Erfurt			96
+Perry			72
+Porto Seguro		121
+Topoľčany		81
+Kraljevo		11
+Hermitage		1
+Baton Rouge		22
+Arima			59
+Kasur			1
+Como			34
+Elektrostal		1
+Ilza			24
+Knutby			1
+Playa del Carmen	32
+Esperanza		3
+Yakutsk			419
+Odense			140
+Vyshhorod		299
+Ulm			186
+Lerma de Villada	9
+Beijing			57818
+Salto			208
+Massama			3
+Salta			42
+Jūrmala			1
+Runcorn			221
+Lewisport		1
+Rubizhne		2105
+Vicente Lopez		6
+Hoofddorp		134
+Kapellen		31
+Serramazzoni		5
+Alblasserdam		90
+Rivanazzano		2
+Selidovo		206
+Santa Rita do Sapucai	10
+Stabroek		29
+Versailles		7
+Popesti-Leordeni	20
+Bad Berka		1
+Peniche			17
+Niefern-Oschelbronn	1
+Bruceton Mills		1
+Medan			7
+Itabaiana		1
+Case			771
+Varnamo			2
+Wauconda		4
+Coimbatore		397
+Wahpeton		5
+Eschen			5
+Cricklewood		3
+Jaunmarupe		1
+Winnerath		107
+Corpus Christi		81
+Sao Valentim		2
+Västerås		26
+Mokronog		64
+Tilst			48
+Benguela		1
+Vadapalani		4
+Xalisco			5
+Bethania		4
+Monterotondo		10
+Meda			16
+Ban Bat			2
+Velbert			3
+Amboli			18
+Quilmes			298
+Bandeirantes		1
+Howald			5
+Francavilla al Mare	98
+Sathon			10
+Lissone			1
+Trowbridge		1
+Weiz			1
+Belgershain		50
+Kryvyi Rih		714
+Bondy			3
+Bacău			1
+Valdeaveruelo		11
+Esch-sur-Alzette	1
+Ciudad Obregón		235
+Waynesboro		8
+Gradiska		3
+Tyngsboro		41
+Pueblo Yaqui		3
+Mittweida		62
+Bradenton		6
+Osasco			45
+Accra			132
+Hunters Hill		5
+Cesky Dub		10
+Villeneuve-sur-Yonne	7
+Sankt Martin im Innkreis	6
+Osaka			4704
+Steubenville		3
+Jesus Maria		3
+Krobia			9
+Sonipat			17
+Texcoco			13
+Schertz			1362
+Penapolis		16
+Beloyarskiy		18
+Vespasiano		14
+Florianópolis		84
+Cianjur			34
+Keele			4
+Sandesneben		1
+Shchelkovo		38
+Hammond			4
+Bălţi			1
+Locri			1
+Limours			85
+Koenigstein im Taunus	3777
+Herford			60
+Birmingham		1553
+McDowall		2
+Lohne			2
+Zulte			17
+Zippori			2
+Mascalucia		3
+Kaloyanovo		8
+Brabrand		9
+Francavilla Fontana	2
+Wilmer			4
+Kaunas			713
+Glen Burnie		6
+Moultrie		18
+Methuen			8
+Marostica		24
+South Lake Tahoe	12
+Valhalla		6
+Highgate Hill		40
+Illzach			227
+Nassjo			32
+Durette			3
+Aranyosgadany		2
+Pisa			90
+Loganlea		1
+Bermondsey		45
+Pisz			47
+Nice			69
+Cascavel		24
+Vysne Raslavice		1
+Rio Claro		59
+Hoerstetten		2
+Liski			3
+Vitória da Conquista	177
+Horni Pocernice		58
+Dali			11
+Bois-d'Arcy		22
+Izmail			29
+Aktepe			33
+Kotel'niki		122
+Meschede		1
+Putian			1754
+Potenza			19
+Bornheim		231
+Benifaio		15
+Grodczany		131
+Liberec			28
+Miguel Hidalgo		1
+Maastricht		43
+Whittier		2
+Vigneux-de-Bretagne	6
+Val-d'Or		1
+Campina			202
+Pike Road		2
+Condor			4
+Orihuela		136
+Springfield Gardens	20
+New Friends Colony	1
+Buttrio			3
+Dobrichovice		178
+Bandar Seri Begawan	77
+Niceville		97
+Warrington		2
+Pirai			3
+Molina			2
+Tosno			10
+Stafford		83
+Mandaluyong City	4
+Zwolle			7
+Newry			4
+La Boca			18
+Kungälv			3
+Stirling		5
+Romsey			2
+Stockerau		10
+Svetloye		14
+Orwell			1
+Sao Goncalo		248
+Stratford-upon-Avon	37
+Almirante Brown		10
+Abbiategrasso		2
+Sarreyer		4
+Comodoro		45
+Bondi			13
+Salaya			29
+Milagro			7
+Verviers		1
+Salisbury		19
+Bayerisch Gmain		7
+Campana			29
+Myresjo			2
+Schenectady		13
+Edeleny			1
+Linthal			3
+Leutenbach		5265
+Pirassununga		4
+Klarup			1562
+Millis			2
+Dudley			30
+Brejinho de Nazare	3
+Nova Ves nad Zitavou	25
+Herzliya		8
+Nicolet			52
+Kokkola			3
+Bluffton		12
+Tepotzotlan		5
+Leczna			1
+Girona			15
+Jelenia Góra		16
+Didesti			23
+Great Missenden		2
+Catania			13
+Kaspiysk		85
+Tierra Amarilla		1
+Porto			321
+Colton			8
+Long Keng		102
+Keysborough		2
+Mocajuba		14
+Conshohocken		1
+San Sebastián de los Reyes	1
+Lynbrook		14
+Monreale		4
+Villeurbanne		1012
+Markranstaedt		10
+Pontianak		48
+Abidjan			310
+Galanta			7
+Gary			2
+Blytheville		1
+Barra Bonita		2
+Bomet			3
+Bahía Blanca		22
+Monett			12
+Hedemora		10
+Ptice			1
+Sarnia			7
+Montpelier		2
+Rotterdam		3193
+Manta			32
+Noranda			4
+Westland		2
+De Lier			1
+Sussex			74
+Blacktown		2
+Ural			28
+Taranto			2
+Sursee			169
+Durant			1
+Pfaffenhofen an der Roth	3
+Natick			181
+Ambheti			8
+Sha Tin Wai		1
+Pasar Baru		21
+Teixeiras		5
+Buffalo			5974
+Mönchengladbach		8
+Axum			1
+Subotica		5
+Wodonga			1
+Madrid			11772
+Bacabal			15
+Pleasantville		45
+Middleton		3
+Ayamonte		122
+La Buitrera		4
+Marília			35
+Fontenay-sous-Bois	3
+Sunteragung		2
+Assago			3
+Bethesda		200
+Dickinson		1
+Weed			16
+Presidente Prudente	251
+Ruda Śląska		134
+Fratta Polesine		1
+Romilly-sur-Seine	104
+Tisnov			469
+Varjota			1
+Westover		3
+Jatibening		33
+Calbayog City		21
+Abano Terme		11
+Eskişehir		6
+Grojec			2
+Mombasa			36
+Lincoln			205
+Mackinac Island		19
+Fort Smith		17
+Cannes			12
+Freiburg		494
+Mondrainville		1
+Bordeaux		431
+Acores			2
+Pesaro			5
+Erice			2
+Doroghaza		259
+Ferny Creek		2
+Eastwood		3
+Pau			11
+Kebayoran Baru		12
+Trenčín			10
+Campina Grande do Sul	1
+Alchenflueh		2
+Boquim			8
+Thanh Pho Thai Binh	60
+Mnichovice		2
+Klaipėda		54
+Kuenzelsau		34
+Shadrinsk		1
+Weiach			22
+Mokelumne Hill		18
+La Teste-de-Buch	2
+Nicholls		17
+Delmiro Gouveia		29
+Georgensgmund		833
+Morley			5
+Storm Lake		1
+Kovarska		12
+Toyama			79
+Hradek nad Nisou	2
+Hackettstown		10
+St Helens		4
+Becker			3
+Romeoville		7
+Rock Springs		4
+Purmerend		1
+Vinnytsya		26042
+Szczecinek		39
+Belford Roxo		266
+Chapel Hill		7
+Chancay			7
+Kempton Park		21
+Fiano Romano		2
+Taquaralto		3
+Geesthacht		5
+Bay City		1
+Dzerzhyns'k		171
+Solna			14
+Suceava			84
+Prudnik			7
+Crevecoeur-le-Grand	2
+Tassin-la-Demi-Lune	2
+Bang Len		23
+Itambacuri		31
+Goiana			2
+York			67
+Lesznowola		4
+Treviso			90
+Joglo			1
+Nowa Sol		8
+Mersin			125
+Southampton		126
+Rapperswil		1
+George Town		173
+Medical Lake		7
+Bom Despacho		12
+Birken-Honigsessen	4
+Vico Canavese		1
+Cookstown		1
+Malyi			32
+Aubry-du-Hainaut	108
+Kelambakkam		8
+Buchanan		10
+Moppo			1
+Livonia			5
+Camden			4
+Pniewy			43
+Tielmes			431
+Roedt			7
+Bois			3
+Stramberk		1
+Snezhinsk		9
+Krnov			17
+Pontypool		105
+Vsevolozhsk		2696
+Chantilly		70509
+Saint-Michel-sur-Orge	1
+Rothenthurm		20
+Lindesberg		7
+Barrancas		1
+Poway			117
+Punta Arenas		2
+Bobolice		11
+Millbrook		136
+Leibnitz, Styria	1
+Neubiberg		3
+Montgiscard		2
+Aurora			730
+Hechingen		4
+Kaarst			39
+Osimo			8
+Torrevieja		39
+Conrado			4
+Stolpen			2
+Altlandsberg		1
+Yehud-Monosson		2
+Fyshwick		31
+Ustron			2
+Moreno			15
+Kathmandu		195
+Nova Petropolis		1
+Cascina			46
+Oktyabr'skiy		3
+Krakow			14568
+Suwanee			20
+Azul			47
+Wynberg			10
+Beaver			4
+Tacoma			45
+Morelia			121
+Indaial			18
+Elche			20
+Udel'naya		2
+Nazare			52
+Sheboygan Falls		16
+Brossard		51
+Luxembourg		306
+Seyssinet-Pariset	1
+Faxinal dos Guedes	107
+Eschweiler		37
+Smarr			247
+Purfleet		2
+Agua Prieta		7
+Temple			1
+Uniao da Vitoria	47
+Lysa nad Labem		2
+Cisano Bergamasco	2
+Brooklyn		11860
+Cavriglia		1
+Assis			59
+Ocmanice		11
+Cagliari		20
+Pozuelo de Alarcón	24
+Wydminy			18
+Paranoa			25
+Altadena		226
+Center			2
+Vindeln			1
+Wetter (Ruhr)		2
+Marica			48
+Araruama		40
+Saligramam		1
+Tel Aviv		5763
+Goodland		2
+Yingxian		1
+Oosterhout		42
+Nordkirchen		18
+Bladensburg		1
+Muritiba		3
+Coraopolis		42
+Somerville		137
+Kielczow		31
+Hudiksvall		2
+North Hollywood		6
+Chrudim			63
+Coronel			1
+Uddevalla		2
+Kristinestad		2
+Moron			11
+Ibate			1
+Las Rozas de Madrid	28
+Noumea			2
+Pendang			1
+Strelcha		11
+Krasnoperekops'k	19
+Bucheon-si		7
+Les Milles		4
+Nishinomiya		1
+Cuenca			87
+Byszewice		300
+Qingdao			467
+Paranavai		60
+Jelgava			9
+Dusseldorf		4231
+Bilaspur		1
+Deerfield Beach		40
+Plovdiv			113
+Sotkamo			4
+Lubliniec		7
+Sidmouth		68
+Spring			680
+Raniganj		5
+Sichuan			22782
+Walldorf		4007
+Kemerovo		200
+Faxinal			1
+Weimar			13
+Santa Isabel		4
+Carugate		13
+Vaiano			5
+Johanneshov		1
+Wielowies		153
+Giessen			161
+Bagaladi		1
+Bhawan			14
+Auburndale		2
+Jyväskylä		14
+Klucze			3
+Victoria		330
+Dearborn		3
+Monte di Procida	383
+Greenwood		2
+Collierville		768
+Stenstrup		143
+Moravske Budejovice	15
+Krasnoyarsk		646
+Tainan City		142
+Engelskirchen		1
+Campodarsego		1
+Rio Formoso		1
+Quitman			3
+Weinfelden		24
+Durham			9296
+Boca del Rio		32
+Zadni Treban		4
+São Lourenço		91
+Ohmes			4
+Vinhedo			1
+Bac Giang		15
+Senigallia		31
+Palatine		21
+Aubervilliers		30
+Flin Flon		10
+Koyambedu		4
+Banbury			2
+Barendrecht		10
+Emsdetten		10
+Ciudad del Carmen	35
+Yelahanka		2
+Beauvais		21
+Al Mansurah		4
+Ryomgard		11
+Qazir			8
+Santa Catarina		31
+Humenné			7
+Ceuti			26
+Aksaray			5
+Ancaster		2
+Foggia			1
+Ogre			15
+Jesolo			22
+Lucban			7
+Bzenec			36
+Huntington Beach	39
+León			220
+Asperhofen		1
+Kingman			12
+Aledo			61
+Lusaka			20
+Molins de Rei		463
+Heiwajima		205
+Salina			32
+Halmstad		138
+Rio das Ostras		55
+Reinbek			7
+Kongens Lyngby		2
+Lučenec			71
+Gabrovo			5
+Lanzhou			16
+Pregarten		5
+Czerwonak		125
+Branesti		86
+Green Bay		56
+Żory			1
+Losser			13
+Brumado			12
+Rosedale		2
+Repentigny		6
+Wald			7
+Fryazino		212
+Wall			1
+Harstad			20
+Greeley			1
+Barkowo			147
+Santana da Vargem	11
+Magnago			1
+Ryn			14
+Salford			13
+Nathupur		1
+Huaral			14
+Rye			3090
+Tallmadge		1
+North Point		897
+Guaynabo		2
+Tempe			6117
+Schruns			2
+Pendik			2
+Jabalpur		20
+Dzierzoniow		1
+Bielefeld		65
+Wallern an der Trattnach	24
+Bat Yam			43
+Sylmar			255
+City of Parramatta	49
+Jacksonville		4933
+Milton			13
+Detmold			24
+Polson			1
+Passade			7
+Bodø			11
+Guindy			2
+Lapczyca		16
+Campo Maior		37
+Kurten			2
+Collingwood		532
+Albi			9
+Sao Jose de Mipibu	10
+Alba			2
+Battipaglia		61
+Glebe			33
+Bhandup			2
+Rawang			1
+Tuusula			127
+Pemulwuy		10
+Pinellas Park		7
+Oakdale			1
+Monroe City		3
+Saint Maries		1
+Saidabad		1
+Brejinho		5
+Vernier			73
+Bijwasan		2
+Stabio			9842
+Bedlno			4
+Blieskastel		16
+Plattsburgh		9
+Nykvarn			1
+North Vancouver		1
+Bargagli		10
+Sesto San Giovanni	458
+Blindley Heath		1
+Atlacomulco de Fabela	24
+Acajete			2
+Jona			36
+Grassobbio		12
+Nowy Targ		153
+Brownsburg		1
+Bom Jesus		1
+Antakya			52
+City Bell		4
+Alfonsine		32
+Moorpark		57
+Kotlas			1
+Windsor			30
+Seropedica		2
+Frenstat pod Radhostem	5
+Bayside			3805
+Purwokerto		8
+Cambui			25
+Neunkirchen		1
+San Donà di Piave	15
+Novomoskovsk		337
+Curitiba		133
+Nogent-sur-Oise		26
+Rumburk			1
+Dobruska		1
+Mossel Bay		2
+Santo Stefano di Magra	38
+Tabriz			28
+Itapetinga		2
+Holmdel Township	1
+Gråsten			1
+Outing			1
+Gentofte Municipality	5
+Lagos de Moreno		1
+Gerlafingen		1
+Scarsdale		20
+Roztoky			138
+Utrecht			294
+Zlotow			1
+Ferrara			16
+Taby			2
+Dunaújváros		86
+Camp Hill		53
+Vukovar			4
+Partille		4
+Ishøj			1
+Manhattan Beach		26
+Bonfinopolis		1
+Syosset			27
+Pasadena		785
+Boom			2
+Kos			13
+Krzyki			1
+Hallgarten		11
+Franklin Lakes		41
+Chodzież		1
+Danbury			701
+Karabar			1
+Tamworth		694
+Gorgonzola		1
+Allahabad		23
+Dornstadt		1
+Dolgoprudnyy		1446
+Novi Iskar		7
+Priozersk		100
+Saquarema		84
+Arconate		1
+Sao Martinho		1
+Cardano			3
+West Hartford		18
+East Brunswick		35
+South Yarra		1
+Mohan			5
+Story City		1
+Cottbus			53
+West Palm Beach		328
+Pforzheim		9
+Ayacucho		23
+Bayamón			9
+Blatna			6
+Pattaya			130
+Willemstad		2179
+Pruszków		113
+Faridabad		286
+Jordan			2
+Miranda			3
+Fornells de la Selva	469
+Sound Beach		7
+Puos d'Alpago		2
+Dhaka			989
+Sioux Falls		25
+Teófilo Otoni		53
+Tista Bazar		8
+Jokela			1
+Chesapeake		2
+Saskatoon		289
+Tranby			2
+Cassano Spinola		172
+Burscheid		105
+Kawasaki		30
+Road Town		21041
+Gallese			3
+Bioggio			4
+Salinas			163
+Heredia			9
+Duque de Caxias		334
+Elsternwick		4
+Midvale			107
+Topki			8
+Lake Zurich		41
+Corongo			4
+State College		45
+Wormer			1
+Montgomery		8
+Quintero		8
+Owings Mills		12
+Addison			2
+Palmas			70
+Bone Gap		3
+Schortens		10
+Eskilstuna		2
+Waterlooville		15
+Pindamonhangaba		10
+Ibague			74
+Mobile			14
+Sahuayo de Morelos	19
+Tunari			1
+Bettiah			1
+Strassen		1
+Tucurui			30
+Kufstein		4
+Tarnawa Gorna		17
+Sankt Georgen im Attergau	1
+Zgierz			2
+Piraju			1
+Perico			23
+Walden			1
+Gibson City		7
+Hjørring		10
+Doettingen		313
+Repulse Bay		1
+Frankfort		4
+Duncan			5
+Barcin			11
+Rijssen			125
+Guilin			2
+Evanston		34
+Cognac			2
+Frankford		1
+Hesperia		2
+Wortegem		1
+Bydgoszcz		305
+Holt			6
+Northport		3
+Villa de Mayo		27
+Vysoka Pec		10
+Brech			6
+Krefeld			16
+Sao Felix		2
+Angol			35
+Iowa City		124
+Costanza di Riese	77
+Stare Sedlo		1
+Woerth am Rhein		1
+Kleinmachnow		3
+Vic			3
+Carre			2
+Miskolc			74
+Valparaiso		69
+Moyobamba		3
+Jinocany		10
+Cornellà de Llobregat	2
+Kallinge		4
+Sao Miguel do Iguacu	3
+Cavalicco		1
+La Plaine-Saint-Denis	7
+Tredegar		5
+Leszno			69
+Sollentuna		882
+Loughborough		5
+Deerfield		2
+Bruges			1032
+Rehovot			107
+Budaors			16
+Limbaži			1
+Medina			2
+Lapotince		18
+Faisalabad		9
+Lanuvio			1
+Horni Redice		3
+Cathedral City		1
+Brandys nad Labem-Stara Boleslav	3201
+West Chester		2161
+San Felipe		1
+Denver			16976
+Surrey			13
+Onda			3
+Dracevo			1
+Panorama City		1
+Lovech			12
+Belgorod		245
+Ivrea			3
+Gmina Brwinów		269
+Langensoultzbach	147
+Yavne			4746
+Ossi			8
+Farmington		213
+Barreiro		5
+Gero			21
+Buzău			3
+Zur Moshe		1
+Ho Chi Minh City	1283
+Prilly			2
+Teixeira		7
+Nizhyn			251
+Lohnsburg		217
+Huachuca City		1
+Belgrano		2
+Charlottetown		134
+Paracin			5
+Ash Shuwaykh		1
+Smolec			7
+Balancan de Dominguez	1
+Salzgitter		142
+Fontanafredda		62
+Picos			70
+Rafaela			34
+Pasian di Prato		64
+Macaiba			1
+Turmalina		8
+Shirayamamachi		22
+Tira Sujanpur		16
+San Leonardo de Yagüe	1
+Moledet			2
+Radomsko		1
+Alcasser		13
+Nove Veseli		1
+Eagle Farm		2
+Samobor			1
+Tangier			7
+Kiyosu			1
+Laval			453
+Logroño			5
+Hod HaSharon		745
+Mariano Moreno		4
+Al'met'yevsk		1
+Burnpur			4
+Endeavour Hills		23
+Laatzen			1
+Pogorzela		4
+Xushan			2
+Miamisburg		1376
+Granite Bay		13
+Solanea			4
+Osiedle-Nowiny		7
+Harrisonburg		14
+Kota Kinabalu		5
+Maynooth		71
+São Luís		427
+Chajari			3
+Marklohe		2
+Mérignac		501
+Rainham			1
+Fleury-les-Aubrais	42
+Chittagong		5
+Gränna			1
+Slavuta			1930
+Almonte			1
+Wilmslow		5
+Queens Village		86
+Warner Robins		47
+Pereslavl'-Zalesskiy	3
+Stillwater		3
+Jupiter			1
+Santos Dumont		28
+Odenthal		7
+Orzysz			1
+Liège			47
+Lesnoy			1
+Burgettstown		33
+Delémont		2
+Três Corações		3
+Trinec			3
+West Haven		2
+Palakkad		1
+Ufa			156
+Port of Spain		6
+Old Bethpage		3
+Fürth			48
+Hamden			1
+Hurstville		189
+Litovel			3
+Hays			3
+Longjumeau		15
+Armazem			149
+Huntley			18
+Fuzhou			1182
+Libnatov		2
+Embrach			360
+Paraisopolis		16
+Sao Lourenco da Mata	17
+Kempten (Allgaeu)	59
+Bridgeton		9
+Lubartow		85
+Rowlands Gill		2
+Santo Antonio do Monte	2
+Sobral			306
+Pantai			30
+Florencio Varela	4
+Colleranesco		10
+Zerbolò			13
+Imsida			21
+Hrastnik		2
+Rauenberg		1
+Meudon			6
+Absam			1
+Gillette		1
+Sollenau		5
+Ouro Branco		7
+Frasnes-lez-Gosselies	7
+Riverdale Park		1
+Trani			22
+Bien Hoa		40
+Icod de los Vinos	2
+Locorotondo		1
+Luzzi			2
+Anaheim			2171
+Cloppenburg		6
+Collebeato		1
+Carire			5
+Cergy			6
+Ban Pong		93
+Temecula		4
+Gersthofen		8
+Coslada			112
+Tianjin			562
+Sogliano Cavour		1
+Morganton		2
+Pesochin		628
+Villahermosa		120
+Oradea			6
+Palmeira		46
+Cordova			132
+Le Mesnil		2
+Vorkuta			1
+Chapet			28
+Zimmerman		1
+Sinop			3
+Korsør			3
+Pilisvorosvar		12
+Garden City		536
+Estrela			4
+Varedo			4
+Bristow			1
+Envigado		30
+Ribeirao		8
+Klimovsk		4
+Papillion		6541
+Bristol			157
+Ashland			21
+Root			206
+La Paz			1200
+Maria da Fe		16
+Chlef			3
+Egmore			5
+Leicester		49
+Mogi das Cruzes		9
+Durango			75
+Hilton			34
+Kowloon			373
+Batman			29
+Joaçaba			2
+Černý Důl		5
+Monsey			3
+Biała Podlaska		2
+Espoo			518
+Kakkanad		11
+Woods Hole		2
+Villa Lugano		10
+San Lazzaro di Savena	2
+Olivos			56
+Seri Kembangan		1
+Lota			1
+Nicosia			1285
+Horn Lake		1
+San Vicente		91
+Deshler			1
+Barnum			1
+Monheim am Rhein	7
+Bezons			319
+Flint			122
+Fair Lawn		2
+Southborough		7
+Heusenstamm		49
+Tlaxcala City		45
+Menlo Park		143
+Tadworth		161
+Corona			24
+Denpasar		18
+Varna			534
+Rembrandt		2
+Brattholmen		166
+Marigliano		3
+Kladky			11
+Eslov			1
+Kenmore			4285
+Martinsried		1
+Hialeah			51
+Debica			4
+Miguel Pereira		1
+São José dos Pinhais	1
+Rouen			2
+Prince George		1
+Gotzis			9
+Detmarovice		5
+Itatiaia		16
+Baia Mare		4
+Hillsborough		868
+Fargo			184
+Dunajská Streda		8
+São Bernardo do Campo	45
+Wronki			113
+Edinburgh		93
+Hiddenite		1
+Pittsfield		6
+Miranda de Ebro		4
+Saint-Jean-de-Muzols	2
+Winston Hills		5
+Japeri			4
+Stendal			5
+Kristianstad		5
+Syracuse		34
+Bitlis			382
+Pedro Meoqui		60
+Poissy			18
+Madgaon			1
+Cubatao			1
+Rokytnice		1
+Sandnes			23
+Nof Ayalon		1
+Kefar Daniyyel		2
+Madison			331
+Zamość			16
+Sanctuary Cove		1
+Garwolin		73
+Gomel			64
+Backnang		21
+Pirapora		55
+Best			12
+West Linn		1
+Piney Flats		4
+Enter			21
+Syeverodonets'k		2091
+Bartlett		8
+Viby			899
+Poprad			1
+Florissant		6
+Chaniers		2
+Palma di Montechiaro	1
+Sliema			6
+Ginebra			1
+Ames			18
+Biberach an der Riss	19
+Montevarchi		21
+Bascov			1
+Novoaleksandrovsk	1
+Maryville		1
+Billericay		124
+Leerdam			13
+Erwinna			1
+El Molar		5
+Landsmeer		143
+Lansdowne		1
+Capellen		55
+Tomelilla		1
+Carpi			4
+Tetovo			25
+Kuningan Barat		24
+Dessau			1
+Hajdusamson		13
+Gmina Kiszkowo		15
+Zerovice		28
+Beverly Hills		743
+New Mirpur		3
+Eagle Grove		2
+Granada			44
+Vila Nova de Gaia	11
+Desamparados		21
+Hudson			53
+Sterling Heights	4
+Porto Alegre		224
+Horizontina		1
+Cornwall		58
+Salsipuedes		10
+Boulogne		119
+Sokndal			1
+Koenigslutter am Elm	2
+Mount Vernon		44
+Eksel			2
+Waxahachie		63
+Carrboro		13
+San Justo		56
+Sandviken		2
+Arroio dos Ratos	1
+Palo Alto		6047
+Haiphong		18
+Woodhaven		3
+Lomita			578
+Lee			2
+New Castle		2
+Sosnowiec		53
+Maalahti		17
+Amstelveen		54
+Zhoukou			1
+Clifton			176
+Ängelholm		4
+Sunderland		4
+Rheinau			2
+Neusiedl am See		15
+Rumia			7
+Chene-Bougeries		6
+Navojoa			108
+Columbia		111
+Parkville		4
+Schwieberdingen		7
+Willowbrook		7
+Ladera Ranch		35
+Centralia		1
+Brezik Nasicki		8
+Wandi			57
+Canico			11
+Storrs			3
+Bexleyheath		7
+Villa Devoto		3
+Hereford		2
+Villejuif		37
+Canoinhas		1
+Martkoy			3
+Armacao de Buzios	16
+Orbassano		1
+Apatity			29
+Novi			81
+Novy Jicin		7
+Gisborne		1
+Thimphu			198
+Boydton			29815
+Horlivka		108
+Sheffield		154
+Montenegro		6
+Hefei			351
+Olivarella		3
+Iwata			10
+Honolulu		37
+Gines			18
+Czechowice-Dziedzice	4
+Cuyahoga Falls		1
+Geroldsgrun		1
+Shumen			70
+Laye			2
+Hopkins			440
+Goito			6
+Cirangrang		1
+Brunoy			67
+Kecskemét		105
+San Bruno		6645
+Mainz			124
+Vapi			7
+Heilbronn		28
+Uberaba			46
+Lysice			6
+Hatfield		2
+Gerenzano		6
+Linhares		96
+Lohmar			127
+Leer			4
+Zheleznodorozhnyy	101
+Wertingen		11
+Dar es Salaam		146
+Meitze			171
+Saint-Pierre-des-Corps	1
+Timișoara		568
+Lady Lake		1
+Baden-Baden		7
+Khimki			2232
+South Bend		280
+Radzymin		1
+Pipariya		1
+Neulengbach		1
+Oftersheim		279
+Altendorf		29
+Spring Arbor		2
+Velingrad		12
+Pokhara			1
+Upper Marlboro		52
+Qiryat Tiv`on		6
+Port Murray		1
+Myski			4
+Mangalore		106
+Jandakot		477
+Chiasso			72
+Trebaseleghe		6
+Fredonia		2
+Pamulang Barat		5
+New Bern		1
+Lebanon			11
+Kamionka Wielka		7
+Costa Mesa		14
+Bursa			686
+Amersfoort		1
+Wheeling		33
+Chelmsford		3
+Melrose Park		29
+Neuss			75
+Media			1
+Velsen			8
+Plainfield		121
+Guaratingueta		4
+Ilvesheim		6
+Mohelnice		68
+Vila Velha		193
+Lublin			1609
+Congonhas		21
+Naucalpan		253
+Elkhorn			64
+Tann			23
+Chetwynd		38
+Rottenburg		46
+Oshawa			21
+Rybinsk			25
+Ciudad Nezahualcoyotl	197
+Veberod			13
+San Giovanni in Croce	6
+Elko			3
+Condeixa-a-Nova		924
+Poplar Bluff		1
+Daman			12
+Urubici			4
+Union Township		34
+Guaranta		2
+Dashiqiao		2
+Norresundby		80
+Sliven			22
+Tibro			1
+Upton			20
+Condado			1
+Hualien City		1
+Ordu			4
+Ōita			59
+Cilegon			9
+Ellerbe			3
+Diamantina		6
+Osielec			4
+Bantarsari		28
+Baotou			19
+Apodaca			45
+Aparecida		19
+Coleford		1
+Tavernerio		4
+Trossingen		1
+Cagayan de Oro		18
+Zvolen			8
+Petroşani		24
+Alkmaar			3
+Kolding			85
+Rome			2584
+Schagen			13
+Kilpauk			2
+Hrodna			486
+Pittsburg		19
+Falkirk			41
+North Little Rock	1
+Tatabánya		183
+Vranov nad Topľou	1
+Villeneuve-d'Ascq	2
+Manizales		94
+San Marino		56
+Herent			1
+Chinchilla		24
+Vaglia			1
+Prievidza		63
+Reims			106
+Eggelsberg		2
+Saint-Amant-de-Nouere	1
+Bagarmossen		12
+Putzbrunn		34
+Campos			50
+Galvez			1
+Khabarovsk		446
+Aksay			28
+Sant Celoni		1
+Nagykoros		1
+Cargeghe		6
+Sertolovo		22
+Komsomolsk-on-Amur	25
+Altofonte		7
+Walkerton		2
+Piatra Neamţ		1
+Gyoda			4
+La Tour-de-Peilz	1
+Pathanamthitta		3
+Southlake		831
+Colonia Benito Juarez	223
+Peshawar		42
+Cuiabá			70
+Casal di Principe	4
+General Deheza		1
+Shuen Wan		171
+Dayal Bagh		1
+Arenys de Mar		6
+Longview		2
+Stare			1
+Sochi			54
+Engel's			295
+Henstedt-Ulzburg	16
+Miribel			45
+Hinnerup		1
+Nocera Superiore	1
+Aschaffenburg		13319
+Castlebar		73
+Solingen		8
+Votice			2
+Ústí nad Labem		44
+Aktau			3
+Sietesz			1
+Montbonnot-Saint-Martin	1
+Bacoor			1986
+Zernograd		3
+Crawley			165
+Oirsbeek		4
+Aveiro			21
+Signa			28
+Bet Dagan		76
+Chungju			3
+Colorado		1
+Concord			131
+Holtzheim		6
+Kill Devil Hills	51
+Maidenhead		26
+Karnobat		40
+Franschhoek		1
+Penugonda		1
+Palmar de Varela	4
+Clayfield		5
+Kamensk-Shakhtinskiy	1
+Aigremont		3
+Tula			440
+Amman			214
+Lapa			1
+Nedre Frei		258
+Aylesbury		9
+Potsdam			400
+Overbrook		2
+Noventa di Piave	55
+Pyrgos			3
+Norwood			1
+Ibiza Town		1
+Kursk			654
+Givors			25
+Volkmarsen		60
+Sapucaia		7
+Epinoy			2763
+Będzin			1
+Labytnangi		4
+Manado			27
+Saint-Pierre		3
+Saint Croix Falls	29
+Nova Gorica		7
+Menomonee Falls		3
+Santo Antonio de Jesus	319
+Eryaman			2
+Ardingly		27
+Ust'-Kut		1
+Besozzo			2
+Lincolnton		5
+Ashdod			201
+Wevelgem		10
+Moraga			8
+Unterschleissheim	98
+Paphos			1490
+Pointe-Claire		69
+Montebelluna		3
+Zelenograd		14
+Macomb			3
+Formosa			5
+Cermik			2
+Novo Horizonte		13
+Huzhou			5
+Elmont			534
+Lyndon			1
+Kranidi			1
+Mogilno			30
+Kielce			2596
+Pune			2387
+Camporotondo Etneo	4
+Wanganui		60
+Weillen			1
+Lambersart		34
+Clemson			138
+Montabaur		5
+Burgess Hill		3
+Postrelmov		20
+Tilton			1
+Luebbecke		49
+Suzano			67
+Plympton		1
+Mezofalva		1
+Shiraz			5
+Birrhard		3022
+Strevi			2
+Fontana			1
+Rokiškis		3
+Worben			2
+Westford		17
+Jeju City		82
+Seminole		18
+Vasant Kunj		2
+Gelsenkirchen		16
+Engenheiro Dolabela	2
+Biblis			6
+Kaluga			42
+Harlow			731
+Alchevs'k		160
+Tarnowskie Gory		610
+North Charleston	10
+Gorizia			12
+Pisignano		11
+Redhill			1
+Berëzovskiy		13
+Białogard		1
+Kran			8
+Mosier			2
+Newport News		9
+Londonderry		1
+Orinda			91
+Temagami		1
+Horomerice		4
+Wrocław			1974
+Santarém		101
+Oranjestad		9
+Villa Adelina		1
+Kawagoe			3
+Halasztelek		3
+Marietta		1128
+Lagarto			21
+Buc			146
+Córdoba			658
+Kirchseeon		15
+Pensacola		3
+Kendall Park		68
+Leominster		30
+Tver			1666
+Spremberg		4
+Bondoufle		13
+Nogara			1
+Castelnau-le-Lez	1
+Sao Francisco de Paula	1
+Raebareli		2
+Santa Ynez		2
+Uhingen			1
+Novo Hamburgo		13
+Rodding			62
+Tonbridge		134
+Vršac			2
+Albstadt		1
+Cieciwa			13
+Laurel			4
+Round Lake		1
+Brasopolis		51
+Arica			23
+Ashford			4
+Saku			15
+Chandler		777
+Konnagar		54
+Palmeira dos Indios	79
+Shah Alam		54
+Vaddo			13
+Sannois			9
+Basseterre		6
+Tiruchi			85
+Middlesbrough		15
+Sanremo			6
+Amarillo		9
+Prokop'yevsk		44
+Marau			14
+Uba			142
+Naila			6
+Bobigny			4734
+Mettlach		23
+Beaverton		1970
+Hajdunanas		1
+Lipova			268
+Karaj			18
+Lagoa Santa		17
+Skelmersdale		18
+Banks			18
+Antony			45
+Lagoa			19
+Quanah			1
+Parnaiba		57
+Kortrijk		2
+Lagos			340
+Lanus			53
+La Línea de la Concepción	15
+Jilemnice		6
+Richland		27
+Oslo			2179
+Matipo			3
+Woodland		5
+Provo			48601
+Padre Hurtado		2
+Lipa City		2
+Eisenach		29
+Pavia			58
+Babol			6
+Enfield			1
+Aguapei			5
+Siuri			4
+Schaanwald		5
+Aursmoen		7
+Maintal			1
+Ebene CyberCity		1
+Innsbruck		71
+Lanham			10
+Kamiensk		14
+Uryupinsk		79
+Opa-locka		1
+Frederiksberg		23
+Pontedera		11
+North Miami Beach	2
+Tuupovaara		2
+Quirinopolis		94
+Tultitlan		11
+Ferntree Gully		14
+Shelton			840
+Elma			4
+Gibbstown		7
+Keranji			2
+Upwell			2
+Long Beach		4718
+Duisburg		183
+Bicas			4
+Piekary Slaskie		1
+Itaguei			4
+Broniszowice		1
+Baranello		2
+Saint-Genis-Pouilly	1
+Mundra			110
+Piedras Negras		10
+Cardito			2
+Widnes			1
+San Pedro Sula		304
+Kolkata			1584
+Akalgarh		7
+Ostfildern		8
+Agna			6
+Brentwood		71
+Sabzevar		1
+Le Grand-Saconnex	1
+Modena			202
+Cremona			67
+Norheimsund		6
+Pomezia			2
+Differdange		13
+Camaqua			8
+Burwood			133
+Ekenäs			3
+Niedernhausen		7
+Francisco Beltrao	1
+Rutherford		45
+Foshan			1900
+Lobito			2
+Seaford			54
+Pikeville		12
+Este			28
+Virsbo Bruk		1
+Andradina		21
+Croix			128
+Geneseo			3
+Sham Tseng		53
+Paldiski		2
+Tuscaloosa		199
+Schiphol-Rijk		413
+Amherst			11
+Novy Bor		2
+Guangdong		375
+Suchy Las		1
+Nunez			47
+St. Petersburg		972
+Lovington		1
+Sao Vicente		14
+Sainte-Luce-sur-Loire	3
+Wiecbork		20
+Reedsville		8
+Schwanenstadt		4
+Wheeler			1
+Wipperfürth		1
+Riobamba		1
+Jerez de Garcia Salinas	2
+Moroleon		19
+Limache			1
+Bombinhas		2
+Taizhou			721
+Santa Cecilia		8
+Bausasran		3
+Miejska Gorka		1
+Rantoul			6
+Portoviejo		4
+Nidda			428
+Petukangan Utara	2
+Dalian			2
+Elyakhin		17
+Hadera			5
+Harsewinkel		14
+Carlos Barbosa		21
+Arusha			1
+Santa Vitoria do Palmar	1
+San Giorgio di Piano	19
+Cravinhos		20
+Lancaster		117
+Kelowna			1590
+Jaworzno		258
+Tignall			3
+Mottola			2
+Rafael Castillo		8
+Pires do Rio		12
+Sumy			21821
+Woodbury		19
+Anif			1104
+Ankara			665
+Daegu			3
+Kirkenes		5
+Covent Garden		1
+Johnstown		2
+Vladimir		394
+Münster			319
+Osterburken		1
+Mostar			16
+Hellweg			8
+Kirksville		2
+Litomyšl		26
+Chaux-la-Lotiere	13
+Anaco			25
+Stolberg		28
+New Haven		133
+New Berlin		10
+Wanderley		9
+Greenford		26
+Chotusice		16
+Akbaslar		1
+Luhansk			2113
+Rovaniemi		13
+Edison			84
+Leander			2
+Delphi			2
+Niederhelfenschwil	9
+Minot			45
+Tlalpan			664
+Alameda			42
+Hoddesdon		5
+Francisco Alvarez	3
+Nederland		45
+North Ridgeville	42
+Pacatuba		1
+Decollatura		2
+Montesilvano Colle	34
+Estacada		29
+Brno			5118
+Metepec			13
+Del Valle		2
+Nogales			19
+Bardejov		4
+Eastsound		14
+Lupeni			1
+Gossau			11
+Fowler			1
+Ryde			22
+Tarnów			131
+Vail			305
+Saugor			1
+Hartlepool		2
+Rhede			2
+Castelar		10
+Niort			6
+Eastbourne		4
+Ushuaia			1
+Macao			56
+Kashan			3
+Santa Monica		541
+Stavropol		685
+Ranchi			1
+Rendeux			1
+Trabzon			243
+Kastel			4
+Redditch		6
+Spartanburg		3
+Hilliard		5
+Welling			11
+Rio Acima		1
+Hovik verk		3701
+Chotutice		1
+San Fernando		22
+La Piedad		11
+Camarillo		30
+Lehre			4
+Zermatt			2
+Pederneiras		3
+Chomutov		194
+Holon			300
+Pécs			444
+Liebefeld		4
+Museros			1
+Ankeny			1963
+Barby			23
+Fountain Valley		7
+Oskarshamn		1
+Skokie			8
+Macaé			9
+Clarksdale		12
+Wandlitz		491
+Fort St. John		1
+Vila Rica		1
+Reggio nell'Emilia	116
+Guadalupe		98
+Louisville		1957
+Cianorte		14
+Chmel'nica		70
+Columbus		5107
+Luanda			307
+Mangaratiba		9
+San Paolo Albanese	5
+Nanuque			27
+Glazov			13
+Pontes e Lacerda	4
+Hammersmith		4
+Lavonia			8
+Mandhar			11
+Loveland		11
+Bilbao			56
+Cristalina		1
+Inwil			3
+Millers Point		39
+Toulouse		66
+Bury			4
+Monza			4
+Alvsjo			42
+Příbram			4
+Haar			2
+Korntal			602
+Nova Iguaçu		264
+Kajang			37
+Macarani		22
+Rudnitz			105
+Ivanovo			793
+Wokingham		1
+Saint-Jean-de-Liversay	5
+Bonita			8
+Nanyang			1
+West Jordan		78
+Botoşani		10
+Savona			91
+Detern			6
+Duffel			1002
+Clermont-Ferrand	4
+Benghazi		1
+Nova Europa		3
+Dresden			970
+Bagnatica		1
+Gaighata		4
+Limbiate		1
+Himmelpforten		44
+Jenkintown		5
+Brugg			286
+Isdalsto		2
+Wurmla			53
+Nicasio			8
+St Peter Port		19
+Ostrołęka		3
+Rennes			29
+Belgrade		1141
+El Talar		81
+Volpeglino		1
+Vyaz'ma			134
+Tavarnelle Val di Pesa	56
+Yukon			6
+Herschel		1
+Molfetta		6
+Van Buren		1
+Sao Gabriel da Cachoeira	9
+Chanhassen		4
+Ubja			5
+Sant'Arpino		4
+Manuel B. Gonnet	1
+Brunswick		3
+Rhuddlan		106
+Marco			201
+March			61
+Stein			7
+East Moline		4
+Monticello		1
+Sonder Omme		2
+Zawiercie		55
+Hamburg			6912
+Jaguariuna		7
+Chalco de Diaz Covarrubias	11
+San Lorenzo		3
+Petukangan Selatan	10
+Edinburg		1
+Bamberg			93
+Castelldefels		2
+Bandar			11
+Hornowek		19
+Malé			26
+Tualatin		24
+Gmina Lututów		4
+Cipayung		2
+East Lansing		244
+Preganziol		14
+Andheri			23
+Havířov			7
+Bartin			20
+Nea Erythraia		1
+Orekhovo-Zuyevo		29
+Harare			88
+Narva			2
+Focşani			15
+Tripoli			808
+Novocheboksarsk		12
+Pila			2
+Petrozavodsk		164
+Belmore			1
+Reading			727
+Dabas			1
+Castle Hill		1
+Guamo			1
+Leiden			224
+Murino			12
+Greystanes		1
+Albal			4
+Boiling Springs		32
+Glazunovka		21
+Barra do Bugres		9
+Novokuybyshevsk		2
+Puerto Iguazú		1
+Minusinsk		2
+Catanzaro		2
+Jaworki			1
+Kloosterzande		1
+De Kwakel		282
+Draganesti-Olt		1
+Kharkiv			175907
+Vlierden		2
+Brainerd		3
+Chatuchak		15
+Haridwar		6
+Vejle			15
+Barakar			9
+Valcanesti		29
+Mendoza			231
+Chevy Chase		9
+Partizánske		35
+New Concord		1
+Barranco		7
+Puerto Vallarta		24
+Colva			1
+Waalwijk		6
+Carlingford		6
+Aston Arms		3671
+Jiutepec		4
+Cheongju-si		5
+Texico			2
+Escondido		21
+Bregenz			226
+Ritapolis		3
+Gmina Szubin		3
+Machilipatnam		15
+Ciudad Juárez		165
+Walled Lake		13
+Dijon			18
+Paola			1
+Kalvarija		4
+Ottawa			6503
+Cisovice		1
+Valence			24
+Muniz			8
+Valenca			38
+Itajuba			57
+Meyrin			3
+Chesham			67
+Solda			13
+Dobreva Cheresha	20
+Concordia		15
+Białystok		621
+Vezzano sul Crostolo	2
+Murshidabad		4
+Shtip			101
+Dudinka			1
+Balanite		1
+Orange			1793
+Beaconsfield		1
+Odessa			5
+Corrientes		31
+Hitchin			2
+Sandy City		2
+Randers			13
+Allendale		3
+Kirchheim unter Teck	13
+Dom Pedrito		16
+Greenstone Hill		4
+Coventry		409
+Deir Hanna		18
+Arkhangelsk		190
+Changsha		54
+Waldorf			11
+Parkstein		4
+Bryanka			1
+Lafayette		12
+Balmazujvaros		1
+Tizayuca		48
+Cimanggis		9
+Swarzedz		64
+Egernsund		1
+Tunuyan			5
+Szabadszentkiraly	2
+Lysomice		23
+Buin			1
+Ipatinga		112
+Hwachon			11
+Buon Ma Thuot		1
+Retinne			2
+Wan Tsai		61
+Cúcuta			29
+Brigg			1
+Clarksville		60
+Veneto			2
+Sialkot			1
+Chełm			14
+Dartmouth		85
+Ford			98
+Suita			349
+Kirkland		393
+Piotrków Trybunalski	2
+Zima			1
+Ann Arbor		557
+Pilkhuwa		1
+Whitby			1687
+San Vicente Chicoloapan	1
+Bedford			6338
+North Andover		492
+Hessle			62
+Et Taiyiba		3
+Oberursel		7
+Olympia			16
+Neoux			14
+Salt Lake City		2620
+Pereira Barreto		5
+Rosice			2
+Sezimovo Usti		1
+Martovce		14
+Iquique			50
+Roubaix			25902
+Cote-Saint-Luc		1
+Udon Thani		5
+Cullman			2
+Niterói			55
+Ålesund			36
+Downers Grove		2
+Castrovillari		2
+Appleton		1
+Narellan		1
+Ludhiana		74
+Daria			1
+North York		224
+Ganlose			12
+Oregon			16
+Dongen			16
+Mountain Pine		29
+Colchester		19
+Ettersburg		6
+Meckenheim		3
+Rock Island		5
+Mascot			110
+Zary			8
+Saarlouis		2
+Mohammedia		94
+Cheyney			3
+Blackburn		27
+Velikiye Luki		2
+Yeovil			2
+Povarovo		1
+Round Rock		67
+Wolfsburg		43
+Ariano Irpino		2
+Youngstown		13
+Maasbree		1
+Dolianova		19
+Tagajo-shi		4
+Saue			205
+Lenoir			22
+Ness Ziona		155
+Baiersdorf		4
+Villa Luzuriaga		6
+Santo Estevao		104
+Podlehnik		3
+Ballygunge		17
+Barrancabermeja		3
+McHenry			5
+Skala			1
+Quanzhou		21
+Kneheim			2
+Přerov			81
+Letohrad		13
+Cobourg			1
+Zahony			189
+Moberly			3
+Lednice			25
+Ulyanovsk		89
+Ribeirão Preto		35
+Maitland		6
+Toledo City		45
+Blansko			95
+Zvenigorod		21
+Söderhamn		13
+Serpong			123
+Ringgold		5
+Staranzano		3
+Ellicott City		313
+Panuco			50
+Injambakkam		16
+Abreu e Lima		2
+Governador Valadares	64
+Rivne			22202
+Port Coquitlam		24
+Saint David		1
+Salem			1974
+Kobe			79
+Trabuco Canyon		11
+Martfu			61
+Shannon			2
+Kadi			3
+Middlesex		2
+Port Elizabeth		48
+Arcueil			2
+Chiba			344
+Warzachewka Polska	13499
+Zell am Pettenfirst	4
+Tonala			95
+Pskov			128
+Celldomolk		38
+Omurtag			9
+Taguig			58
+Hemer			24
+Esztergom		4
+Spanish Town		7
+Zaporizhia		62013
+Konigsdorf		193
+Egreville		21
+Biadacz			19
+Praszka			33
+Weifang			6
+Mt. Pleasant		691
+Turdera			1
+Poitiers		110
+Jataizinho		5
+Mariinsk		65
+Piqua			3
+Iffeldorf		7
+Bad Reichenhall		16
+Vincennes		1
+Pikesville		3225
+Snohomish		9
+Aracati			3
+Jauharabad		1
+Liptovsky Hradok	2
+Parnamirim		183
+Virginia		1
+Lermontov		131
+Ihtiman			2
+Ledziny			27
+Rousse			11
+Rosario			572
+Filer			1
+Gniezno			18
+Stone Mountain		3
+Kol'tsovo		1
+Urengoy			28
+Bromsgrove		15
+Chincha			1
+Roi Et			133
+Farwell			1
+New Southgate		3
+Bolzano			124
+Syktyvkar		201
+Milton Keynes		151
+Igarassu		7
+Alta			3
+San Pietro in Casale	35
+Deurningen		5
+Postojna		125
+Nagylak			11
+Wattala			4
+Guelph			607
+San Luis Obispo		945
+Titesti			3
+Nam Định		7
+Potstejn		2
+Bad Sulza		4
+Ettlingen		10
+Weert			7
+Matinhos		1
+Santaluz		13
+Summit Point		29
+Bet Me'ir		2
+Twardogora		2
+Quilpué			8
+Siena			23
+Lamington		26
+Dell Rapids		2
+Clausthal		5
+Murfreesboro		8
+Valenciennes		10
+Ivanteyevka		29
+Albuquerque		991
+Tulln			47
+Anjou			2
+Katowice		1189
+Geretsried		2
+Gouda			1
+Karachi			514
+Novellara		5
+Peresznye		4
+Kovdor			73
+Thanh Pho Thai Nguyen	14
+Baclaran		1
+Stokmarknes		1
+Lucena			1
+Saitama			338
+Izhevsk			516
+Gerasdorf bei Wien	256
+Hoogvliet		19
+Thanyaburi		1
+Vialonga		1
+Asbury Park		154
+Tiangua			16
+Midland			5
+Hertford		3
+Levate			3
+Manassas		37417
+Melitopol		46187
+Delft			4
+Ranala			27
+Janauba			1
+Kampung Bukit Kepong	2
+Uruguaiana		3
+Nyiradony		2
+Constanța		716
+Szabadszallas		1
+Capua			2
+Garbsen			2
+Kungur			1
+Sabara			32
+Suffield		33
+Fubine			20
+Anthony			1
+General Santos		8
+Newport Beach		947
+Conselheiro Lafaiete	56
+Arrifana		4
+Sammarcolles		5
+Taquaritinga		8
+Piteşti			70
+Brezno			456
+Bryan			1
+Udomlya			2
+Giroc			51
+Belgaum			9
+Franklin		1716
+Guanhaes		44
+Divinópolis		6
+Austin			23601
+Dylewo			1
+Râmnicu Vâlcea		29
+Blanquefort		46
+Barobampo		1
+Appiano Gentile		83
+Lawrenceville		217
+Malmesbury		12
+Preston			547
+Negrelos		4
+Itaguai			72
+San Sebastián de La Gomera	4
+Krasne			2
+Skepplanda		1
+Goias			7
+Shoval			357
+Bhadreswar		2
+Casalecchio di Reno	1
+Rüsselsheim am Main	15
+San Luis		23
+Willits			1
+Dorval			40
+Biguacu			8
+Chandigarh		225
+Clifton Park		22
+L'Haÿ-les-Roses		4
+Mont-Saint-Guibert	184
+Neuilly-sur-Seine	860
+Balakovo		59
+Zevenhoven		14
+Balıkesir		1
+Eldora			1
+Recife			882
+Eau Claire		23
+Hadapsar		16
+Pescantina		77
+Lajeado			24
+Roseland		69
+Kanab			1
+Singapore		17390
+Reynosa			45
+Bendorf			17
+Jakarta Pusat		33
+Barra do Piraí		5
+Oakland			23544
+Anápolis		41
+Old Bridge		950
+Komlo			1
+el Prat de Llobregat	1
+Bologna			1079
+Valdetorres de Jarama	1
+Basel			148
+Assen			44
+West Hollywood		24
+Pavullo nel Frignano	6
+Bampton			2
+Ringoen			1169
+Belvedere		1
+Niihama			8
+Matysowka		1
+Bang Bua Thong		111
+Santa Cruz do Capibaribe	28
+Linköping		67
+La Vergne		2
+Chesterfield		13908
+Balucuc			2
+Évry			5
+Karkom			2
+Edmonton		404
+Saint-Quentin		33
+Kistarcsa		9
+Oakfield		1
+Vevey			159
+Alvarado		1
+Dnestrovsc		55
+Kraluv Dvur		2
+Allentown		691
+Nova Vcelnice		1
+Clearwater Beach	120
+Kuressaare		6
+Town of East Lyme	3
+Hortolândia		3
+Wamego			1
+Carambei		3
+Somerset		1228
+Ciudad Madero		7
+San Mateo		138995
+Ciudad Hidalgo		114
+Kiambu			3
+Linz			245
+Dombivali		4
+Arona			1
+Lins			16
+Tucker			701
+Monale			1
+Ipiau			16
+Highlands		8
+Ibadan			33
+Missoula		8
+Batam			81
+Begles			7
+Beuningen		16
+Gunupur			3
+Klang			63
+Noord			1
+Al Ain			7
+Perugia			17
+Varberg			15
+Legnano			75
+Neumarkt am Wallersee	5
+Carlsbad		51
+Ningbo			96
+Tiruppur		66
+Caluire-et-Cuire	49
+Budziechow		177
+Jablunkov		3
+Minabe			3
+Xàtiva			37
+Stoney Creek		1
+Hove			187
+Itarantim		17
+La Luz			38
+Villa del Parque	43
+Indianapolis		194142
+Chichester		5
+Mountain View		1404046
+Usmate Velate		5
+Xining			4
+Bucovice		44
+Queen Creek		157
+Dois Irmaos		49
+Valdosta		22
+Capodrise		5
+Zárate			13
+Troitsa			55
+Gragnano		38
+Obra			2
+Starkville		1
+Nellore			38
+Southall		1566
+Pizzo			14
+Funes			5
+Coldwater		11
+Hattiesburg		1
+Yen My			9
+Pinner			16
+Annapolis		271
+Euclides da Cunha	15
+Fort Myers		7
+West Roxbury		17
+Czerna			2
+Santa Margherita di Belice	8
+Villa Park		11
+Clackamas		10
+Daejeon			80
+Sao Marcos		7
+Ashqelon		5
+Koblenz			108
+Loheide			1
+Miaoli			79
+Roudnice nad Labem	17
+Tablada			3
+Eltville		19
+Pabianice		52
+Ostrogozhsk		15
+Nelsonville		1
+Hollenstedt		1
+Modiin			18
+Barna			1
+Ruwi			15
+Barssel			3
+Punta Alta		1
+Kiselëvsk		38
+Tallahassee		69
+Nashua			791
+Moonah			456
+Fairmont		1
+Carros			11
+Oaxaca City		30
+Cabo Frio		23
+Vicenza			236
+São Carlos		1
+Redondo Beach		24
+Malakoff		4
+Resende			32
+Puławy			27
+Afyonkarahisar		18
+Warwick			61
+Beirut			192
+Mukacheve		915
+Thousand Oaks		3508
+Seversk			11
+Taldykorgan		2
+Gmina Śrem		1
+Pacov			1
+Westerburg		34
+Salgotarjan		63
+Nanuet			59
+Gliwice			174
+Gleisdorf		161
+Nachod			144
+Little Valley		1
+Sarisap			3
+Sundsvall		4
+Parque Patricios	132
+Greenland		4
+Acerra			36
+Lewiston		8
+Aracaju			210
+Imola			28
+Westlake		3
+Rovereto		7
+Borstendorf		1
+Bad Oldesloe		1
+Medvezh'i Ozera		1
+Sverdlovs'k		53
+Celinow			1
+Atessa			111
+Aubiere			3
+Markaryd		64
+Chatswood		1
+Sherbrooke		212
+Claremont		1
+Homer City		2
+Matawan			5942
+Acara			57
+Chepauk			5
+Juatuba			56
+Adyar			21
+Setúbal			10
+Kurakhovo		41
+Khujand			1
+Vaxjo			2
+Laskov			2
+Polinago		36
+Konan			89
+Itanhandu		7
+Shimla			10
+Ganemulla		11
+Hyde			1
+Belfast			316
+Schonau im Muhlkreis	24
+Kitamoto		1
+Arcos			29
+Telfs			1
+Yambol			14
+Pergamino		48
+Gevelsberg		2
+Flushing		35
+Campo Bom		1
+Kyustendil		13
+Felgueiras		2
+Klingenberg am Main	309
+Tiel			21
+Norte			9
+Birkenfeld		7
+Marbach			1
+Victoriaville		2
+Primavera		15
+Palermo			378
+Meredith		22
+Little Falls		2
+Teykovo			18
+Drammen			10
+Silva Jardim		7
+Budënnovsk		2588
+Fernando Pedroza	1
+Rosemount		5
+Henndorf am Wallersee	3
+Lonigo			3
+Mo i Rana		1
+Lukachukai		4
+Teltow			8
+Bergen			210
+Holstebro		32
+Lawndale		7
+Veteran			2
+Pamulang		23
+Chatou			14
+Krasnokamsk		9
+Foldes			13
+Albert Lea		6
+Cacu			13
+Dotlingen		12
+Casco			1
+Sanayi			1496
+Verolengo		7
+Quixada			4
+Maltepe			10
+Diamond Harbour		3
+Gelam			1
+Mercedes		6
+Gorzów Wielkopolski	10
+Ozarowice		3
+Asunción		71
+Knaresborough		16
+Vejen Municipality	9
+Morton			8
+Balakhna		4
+Prague			39752
+Gunjur			6
+Berdyans'k		1128
+Anzhero-Sudzhensk	58
+Bend			5
+Candido Mota		29
+Koo-Wee-Rup		1
+Ystad			1
+Setapak			29
+Pavlovce nad Uhom	5
+Sineu			3
+Finsbury		1
+Falkenberg		107
+West Drayton		9
+Areal			1
+Terrebonne		26
+Villa Consuelo		6
+Enkoping		6
+Nova Siri		1
+Malmo			2
+Arcene			8
+Pyrmont			12
+Kurihara		4
+Dacang			36
+Ottobrunn		11
+Hildesheim		12
+Bottighofen		1
+Campobasso		25
+Gwalior			72
+Banda Aceh		1
+Boon Lay		6
+Or Yehuda		14
+Jesenik			64
+Dade City		1
+Niagara Falls		6
+Chambersburg		1
+Noblesville		3
+Quixeramobim		4
+Neuhausen		1
+Sullivan		30
+Thunder Bay		5
+Visalia			3
+Tirana			138
+Ulster Park		12
+Brăila			41
+Herriman		21
+Stefanesti		1
+Tenente Portela		10
+Brzeziny		145
+Wielsbeke		9
+Kumamoto		74
+Zanica			5
+Pittem			3
+Anchieta		17
+Námestovo		63
+Maroubra		14
+Halstenbek		8
+Khon Kaen		6
+Pyatigorsk		77
+Cadiz			7
+Apia			1
+Niederdorfelden		1
+Mikulov			35
+Tlajomulco de Zuniga	87
+Rangely			3
+La Vista		2
+Shakurpur		2
+Foothill Ranch		78
+Blacksburg		507
+Playa del Rey		3
+Wuxi			1001
+Gudow			54
+Pretoria		215
+Ajdovščina		13
+Gillsville		5
+Thessaloniki		74
+Ceara Mirim		8
+Cairns			1
+Modesto			105
+Jinhae-gu		2
+Sion			2
+Veracruz		88
+Manitowoc		5
+Châtillon		62
+Mariakerke		11
+Mesto			13
+Fredericton		34
+Cirebon			51
+Chanditala		11
+Iztapalapa		24
+Hornsey			1
+Hawalli			1
+Osnabrück		34
+Gallarate		26
+Perris			15
+Nudol'			6
+Benson			18
+Toronto			50160
+Dushanbe		6
+Islamabad		270
+Weedsport		1
+Fundao			44
+Bielsk Podlaski		15
+Richardson		154
+Troisdorf		18
+Ennis			5
+Alonte			18
+Catanduva		13
+Wershofen		209
+Pavlohrad		32
+Irpin			1986
+Finale Ligure		3
+Horizonte		39
+Hrusovany nad Jevisovkou	7
+Caivano			4
+Sao Vicente de Paula	1
+Agrestina		1
+Kabul			5
+Sao Francisco		13
+Sackville		39
+Rimini			115
+Lowell			19
+Tomblaine		7
+Marzling		10
+Casiano			1
+Huntsville		225
+Sao Fidelis		435
+Penonomé		24
+Lviv			163772
+Tremosnice		44
+Canyon Lake		1
+Calpe			1
+Multan			11
+Minnedosa		9
+Carapicuiba		2
+Macka			5
+Kastellaun		1
+Augusta			3
+Orpington		1
+Houston			56401
+Cinq-Mars-la-Pile	35
+Thiruvananthapuram	60
+Belo Jardim		1
+Piraeus			3
+Madisonville		25
+West Suffield		28
+Crewe			6
+Cruzilia		17
+Mostoles		9
+Yongin-si		6
+Umuarama		11
+Soliera			5
+Chrzanów		11
+Timar			9
+Fujisawa		8
+Yorktown Heights	5
+Sant Cugat del Vallès	158
+Brodosqui		1
+Jaffa			6
+Carbonera		10
+Rio Segundo		2
+Unknown 		26839642
+Henau			6
+Plainsboro		37
+Kofu			4
+Itapevi			3
+Smlednik		28
+Wasilkow		193
+Mitry-Mory		1
+Nagar			121
+Boesingheliede		16
+Vils			1
+Marlton			7
+Hajduszoboszlo		17
+Korolev			159
+Gibraltar		1114
+Orono			15
+Cochabamba		100
+Gainesville		1621
+Cheonan			14
+Xingtai			1
+St. Joseph		69
+Rajkot			3
+Marov u Upice		196
+Scisciano		1
+Senice na Hane		54
+Cellino San Marco	4
+Schwaz			3
+Vyttila			7
+Ramonville-Saint-Agne	143
+Torredonjimeno		1
+Saint-Etienne		2004
+Woodford		59
+Maua			27
+Spassk-Dal'niy		378
+Chester			29
+Longmont		41
+Kilgore			1
+Bingley			7
+Berlaar			4
+Brownsville		7
+Newington		31
+Gdańsk			728
+Balaguer		6
+Pralkowce		14
+Pasohlavky		4
+Skövde			24
+Mugla			15
+Sochaczew		63
+Chermside West		1
+Newtown Square		189
+Itapemirim		11
+Luleå			8
+Franco da Rocha		3
+Sucy-en-Brie		2
+Montegaldella		81
+Pontevedra		198
+Grodzisk Mazowiecki	8
+Severomuysk		149
+Ostrhauderfehn		3
+Roermond		1
+Bali			3
+Basking Ridge		57
+Port Vila		1
+Lake Worth		1
+Meilen			4
+Dover			35
+Ulhasnagar		17
+Escada			7
+Anconetta		5
+Bilcza			2
+Serrita			1
+Silla			511
+Joinville		57
+Detroit			123
+Mong Kok		2324
+Perm			472
+Rivas-Vaciamadrid	18
+Thisted			19
+Schwalbach am Taunus	3
+Bejar			9
+Bucharest		3346
+Sonoma			1
+Morada Nova		27
+Riyadh			138
+Gols			1
+Tehama			1
+Goetene			1
+Peru			21
+Horten			1
+Culiacán		458
+Vancouver		6636
+Morro Bay		1
+Madipakkam		6
+Puerto Cortez		13
+Corby			16
+Cortland		2
+Carceri			2
+Tang-ni			2
+Denville		8
+Itapeva			38
+Caringbah		2
+Wollersdorf		2506
+Barranquilla		66
+Kolsassberg		3
+Proszowice		1
+Arapahoe		1
+Schiltigheim		57
+Ferndale		7
+Kaarina			6
+Rossum			90
+Yuba City		27
+Ilmenau			23
+Baltimore		823
+Glostrup Municipality	127
+Young Harris		1
+Abingdon		1
+Biysk			48
+South Boston		136
+Roswell			3
+Beveren			2
+Stockton-on-Tees	1
+Speyer			437
+Touzim			1
+Vallensbæk		1
